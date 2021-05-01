@@ -1,0 +1,4638 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: FrontRunner 1.0\n"
+"POT-Creation-Date: 2015-10-21 08:26-0500\n"
+"PO-Revision-Date: 2015-06-23 20:27-0600\n"
+"Last-Translator: \n"
+"Language-Team: Parallelus\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;_n;__ngettext_noop;_n_noop;_x;_nx;"
+"_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;"
+"esc_html_x;_c;_nc\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../parallelus-frontrunner/404.php:36 404.php:36
+msgid "Whaaaaat??!?!!1"
+msgstr ""
+
+#: ../parallelus-frontrunner/404.php:37 404.php:37
+msgid "It seems the page you're looking for isn't here."
+msgstr ""
+
+#: ../parallelus-frontrunner/404.php:41 404.php:41
+msgid "Try looking somewhere else and you might get lucky!"
+msgstr ""
+
+#: ../parallelus-frontrunner/archive-political-event.php:42
+#: archive-political-event.php:42
+msgid "Campaign Events"
+msgstr ""
+
+#: ../parallelus-frontrunner/archive-political-event.php:93
+#: archive-political-event.php:93
+msgid "More Events"
+msgstr ""
+
+#: ../parallelus-frontrunner/archive-political-event.php:114
+#: archive-political-event.php:114
+msgid "RECENT EVENTS"
+msgstr ""
+
+#: ../parallelus-frontrunner/archive-political-event.php:155
+#: archive-political-event.php:155
+msgid "at"
+msgstr ""
+
+#: ../parallelus-frontrunner/archive-political-event.php:189
+#: archive-political-event.php:189
+msgid "Event Details"
+msgstr ""
+
+#: ../parallelus-frontrunner/archive-political-video.php:16
+#: archive-political-video.php:16
+msgid "Campaign Videos"
+msgstr ""
+
+#: ../parallelus-frontrunner/archive-political-video.php:137
+#: archive-political-video.php:137
+msgid "More Campaign Videos"
+msgstr ""
+
+#: ../parallelus-frontrunner/comments.php:29 comments.php:29
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: ../parallelus-frontrunner/comments.php:37
+#: ../parallelus-frontrunner/comments.php:59 comments.php:37 comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: ../parallelus-frontrunner/comments.php:39
+#: ../parallelus-frontrunner/comments.php:60 comments.php:39 comments.php:60
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../parallelus-frontrunner/comments.php:40
+#: ../parallelus-frontrunner/comments.php:61 comments.php:40 comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../parallelus-frontrunner/comments.php:71 comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: ../parallelus-frontrunner/comments.php:77 comments.php:77
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../parallelus-frontrunner/comments.php:78 comments.php:78
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../parallelus-frontrunner/comments.php:79 comments.php:79
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../parallelus-frontrunner/comments.php:80 comments.php:80
+msgid "Post Comment"
+msgstr ""
+
+#: ../parallelus-frontrunner/comments.php:85 comments.php:85
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: ../parallelus-frontrunner/content-page.php:59
+#: ../parallelus-frontrunner/content-single-post.php:86
+#: ../parallelus-frontrunner/image.php:61
+#: ../parallelus-frontrunner/templates/page-narrow.php:29 content-page.php:59
+#: content-single-post.php:86 image.php:61 templates/page-narrow.php:29
+msgid "Pages:"
+msgstr ""
+
+#: ../parallelus-frontrunner/content-political-event.php:81
+#: ../parallelus-frontrunner/content-single-political-event.php:116
+#: ../runway-framework/extensions/theme-utilities/hooks-actions.php:317
+#: content-political-event.php:81 content-single-political-event.php:116
+msgid "All Day Event"
+msgstr ""
+
+#: ../parallelus-frontrunner/content-political-event.php:123
+#: ../runway-framework/extensions/theme-utilities/hooks-actions.php:349
+#: content-political-event.php:123
+msgid "All Day"
+msgstr ""
+
+#: ../parallelus-frontrunner/content-post.php:26
+#: ../parallelus-frontrunner/content.php:43 content-post.php:26 content.php:43
+msgid "Continue reading"
+msgstr ""
+
+#: ../parallelus-frontrunner/content-single-political-event.php:194
+#: content-single-political-event.php:194
+msgid "This event has ended"
+msgstr ""
+
+#: ../parallelus-frontrunner/content-single-political-event.php:206
+#: content-single-political-event.php:206
+msgid "Photo Gallery"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:3
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:49
+#: data/translation/pages/1415047562.php:3
+msgid "Theme Options"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:4
+#: data/translation/pages/1415047562.php:4
+msgid "Defaults"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:5
+#: data/translation/pages/1415047562.php:5
+msgid "Design"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:6
+#: data/translation/pages/1415047562.php:6
+msgid "Logo"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:7
+#: data/translation/pages/1415047562.php:7
+msgid "Site Title"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:8
+#: data/translation/pages/1415047562.php:8
+msgid "Favorites Icon"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:9
+#: data/translation/pages/1415047562.php:9
+msgid "Mobile Bookmark Icon"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:10
+#: data/translation/pages/1415047562.php:10
+msgid "Headers"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:11
+#: data/translation/pages/1415047562.php:11
+msgid "Use Page Headers"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:12
+#: data/translation/pages/1415047562.php:12
+msgid "Header Color"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:13
+#: ../runway-framework/extensions/theme-utilities/meta-boxes.php:100
+#: data/translation/pages/1415047562.php:13
+msgid "Header Background"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:14
+#: data/translation/pages/1415047562.php:14
+msgid "Header Height"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:15
+#: data/translation/pages/1415047562.php:15
+msgid "Issues Post Type"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:16
+#: data/translation/pages/1415047562.php:16
+msgid "List Style"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:17
+#: data/translation/pages/1415047562.php:17
+msgid "Error Pages"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:18
+#: data/translation/pages/1415047562.php:18
+msgid "Error Content"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:19
+#: data/translation/pages/1415047562.php:19
+msgid "Error Template"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:20
+#: data/translation/pages/1415047562.php:20
+msgid "Colors"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:21
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:12
+#: data/translation/pages/1415047562.php:21
+#: data/translation/pages/1415219587.php:12
+msgid "Links"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:22
+#: data/translation/pages/1415047562.php:22
+msgid "Link Color"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:23
+#: data/translation/pages/1415047562.php:23
+msgid "Hover Color"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:24
+#: data/translation/pages/1415047562.php:24
+msgid "Accent Colors"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:25
+#: data/translation/pages/1415047562.php:25
+msgid "Accent Color 1"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:26
+#: data/translation/pages/1415047562.php:26
+msgid "Accent Color 2"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:27
+#: data/translation/pages/1415047562.php:27
+msgid "Accent Color 3"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:28
+#: data/translation/pages/1415047562.php:28
+msgid "Fonts"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:29
+#: data/translation/pages/1415047562.php:29
+msgid "Body Font"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:30
+#: data/translation/pages/1415047562.php:30
+msgid "Font Format"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:31
+#: ../runway-framework/data-types/font-select/font-select-type.php:129
+#: ../runway-framework/data-types/font-select/font-select-type.php:379
+#: data/translation/pages/1415047562.php:31
+msgid "Family"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:32
+#: ../runway-framework/data-types/font-select/font-select-type.php:160
+#: ../runway-framework/data-types/font-select/font-select-type.php:389
+#: data/translation/pages/1415047562.php:32
+msgid "Weight"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:33
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:6
+#: ../runway-framework/data-types/font-select/font-select-type.php:171
+#: ../runway-framework/data-types/font-select/font-select-type.php:400
+#: data/translation/pages/1415047562.php:33
+#: data/translation/pages/1415219587.php:6
+msgid "Size"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:34
+#: ../runway-framework/data-types/font-select/font-select-type.php:182
+#: data/translation/pages/1415047562.php:34
+msgid "Color"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:35
+#: data/translation/pages/1415047562.php:35
+msgid "Google Body Font"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:36
+#: data/translation/pages/1415047562.php:36
+msgid "Heading Font"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:37
+#: data/translation/pages/1415047562.php:37
+msgid "Google Heading Font"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:38
+#: data/translation/pages/1415047562.php:38
+msgid "H1 Font Size"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:39
+#: data/translation/pages/1415047562.php:39
+msgid "H2 Font Size"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:40
+#: data/translation/pages/1415047562.php:40
+msgid "H3 Font Size"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:41
+#: data/translation/pages/1415047562.php:41
+msgid "H4 Font Size"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:42
+#: data/translation/pages/1415047562.php:42
+msgid "H5 Font Size"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:43
+#: data/translation/pages/1415047562.php:43
+msgid "H6 Font Size"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:44
+#: data/translation/pages/1415047562.php:44
+msgid "Navigation"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:45
+#: data/translation/pages/1415047562.php:45
+msgid "Main Menu"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:46
+#: data/translation/pages/1415047562.php:46
+msgid "Background"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:47
+#: data/translation/pages/1415047562.php:47
+msgid "Text"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:48
+#: data/translation/pages/1415047562.php:48
+msgid "Accent"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:49
+#: data/translation/pages/1415047562.php:49
+msgid "Drop Down"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:50
+#: data/translation/pages/1415047562.php:50
+msgid "Drop Down Text"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:51
+#: data/translation/pages/1415047562.php:51
+msgid "Menu (alternate)"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:52
+#: data/translation/pages/1415047562.php:52
+msgid "Footer"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:53
+#: data/translation/pages/1415047562.php:53
+msgid "Footer Content Area"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:54
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:7
+#: data/translation/pages/1415047562.php:54
+#: data/translation/pages/1415219587.php:7
+msgid "Background Color"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:55
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:8
+#: data/translation/pages/1415047562.php:55
+#: data/translation/pages/1415219587.php:8
+msgid "Background Image"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:56
+#: data/translation/pages/1415047562.php:56
+msgid "Logo Height"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:57
+#: data/translation/pages/1415047562.php:57
+msgid "Content Source"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:58
+#: data/translation/pages/1415047562.php:58
+msgid "Social Icons"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:59
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:26
+#: data/translation/pages/1415047562.php:59
+#: data/translation/pages/1415219587.php:26
+msgid "Visibility"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:60
+#: data/translation/pages/1415047562.php:60
+msgid "Icon 1"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:61
+#: data/translation/pages/1415047562.php:61
+msgid "Icon 2"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:62
+#: data/translation/pages/1415047562.php:62
+msgid "Icon 3"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:63
+#: data/translation/pages/1415047562.php:63
+msgid "Icon 4"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:64
+#: data/translation/pages/1415047562.php:64
+msgid "Icon 5"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:65
+#: data/translation/pages/1415047562.php:65
+msgid "Icon 6"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:66
+#: data/translation/pages/1415047562.php:66
+msgid "Icon 7"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:67
+#: data/translation/pages/1415047562.php:67
+msgid "Icon 8"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:68
+#: data/translation/pages/1415047562.php:68
+msgid "Footer Overlap"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:69
+#: data/translation/pages/1415047562.php:69
+msgid "Overlap - Background Color"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:70
+#: data/translation/pages/1415047562.php:70
+msgid "Overlap - Background Image"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:71
+#: data/translation/pages/1415047562.php:71
+msgid "Overlap - Form"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:72
+#: data/translation/pages/1415047562.php:72
+msgid "Overlap - Content Source"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:73
+#: data/translation/pages/1415047562.php:73
+msgid "Login Screen"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:74
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:51
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:157
+#: data/translation/pages/1415047562.php:74
+#: data/translation/pages/1415219587.php:51
+msgid "Advanced"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:75
+#: data/translation/pages/1415047562.php:75
+msgid "Styles"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:76
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:54
+#: data/translation/pages/1415047562.php:76
+#: data/translation/pages/1415219587.php:54
+msgid "Custom CSS"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:77
+#: data/translation/pages/1415047562.php:77
+msgid "JavaScript"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:78
+#: data/translation/pages/1415047562.php:78
+msgid "Custom JavaScript"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:79
+#: data/translation/pages/1415047562.php:79
+msgid ""
+"Optional logo graphic. Recommended height of 50px or smaller. Use 100px for "
+"high resolution screens."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:80
+#: data/translation/pages/1415047562.php:80
+msgid "An optional text title shown after the logo."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:81
+#: data/translation/pages/1415047562.php:81
+msgid "Enter the full URL to your favorites (shortcut) icon file."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:82
+#: data/translation/pages/1415047562.php:82
+msgid ""
+"Used on mobile devices to display home screen bookmarks. Recommended image "
+"size 192x192, saved in PNG format."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:83
+#: data/translation/pages/1415047562.php:83
+msgid "Apply custom page headers to the selected post types."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:84
+#: data/translation/pages/1415047562.php:84
+msgid "The default background color for all headers."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:85
+#: data/translation/pages/1415047562.php:85
+msgid "The default background image for all headers."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:86
+#: data/translation/pages/1415047562.php:86
+msgid ""
+"(optional) Enter a height for the header area. This setting will not change "
+"the home page header.&lt;br&gt;Use pixels (e.g. 300px) or a percentage (e.g. "
+"20%)."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:87
+#: data/translation/pages/1415047562.php:87
+msgid ""
+"All issues on a page with full content or show excerpts and link to the full "
+"content."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:88
+#: data/translation/pages/1415047562.php:88
+msgid "Optionally select a content source to show on the error page."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:89
+#: data/translation/pages/1415047562.php:89
+msgid "Select the template for the error page."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:90
+#: data/translation/pages/1415047562.php:90
+msgid "Choose a font format."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:91
+#: data/translation/pages/1415047562.php:91
+msgid ""
+"Enter the name of a standard system font. Separate multiple fonts with "
+"commas."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:92
+#: data/translation/pages/1415047562.php:92
+msgid "Enter the font weight. Such as, normal, bold, 300, 800, etc."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:93
+#: data/translation/pages/1415047562.php:93
+msgid "Enter the font size. (e.g. 16px)"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:94
+#: data/translation/pages/1415047562.php:94
+msgid "Set the font color."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:95
+#: data/translation/pages/1415047562.php:95
+msgid "Enter the font size. (e.g. 24px)"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:96
+#: data/translation/pages/1415047562.php:96
+msgid "The color of the menu."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:97
+#: data/translation/pages/1415047562.php:97
+msgid "Menu text color."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:98
+#: data/translation/pages/1415047562.php:98
+msgid "The color to mark active and hover items."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:99
+#: data/translation/pages/1415047562.php:99
+msgid ""
+"The sub-menu color. Leave blank to create automatically from menu background."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:100
+#: data/translation/pages/1415047562.php:100
+msgid "The sub-menu text color."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:101
+#: data/translation/pages/1415047562.php:101
+msgid "The background color for footers."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:102
+#: data/translation/pages/1415047562.php:102
+msgid "The background image for footers."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:103
+#: data/translation/pages/1415047562.php:103
+msgid "Optional footer logo graphic."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:104
+#: data/translation/pages/1415047562.php:104
+msgid ""
+"Optional height for the logo image. Set value to half the height of the file "
+"for Hi-DPI (retina) display."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:105
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:72
+#: data/translation/pages/1415047562.php:105
+#: data/translation/pages/1415219587.php:72
+msgid "Select a content block for the source."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:106
+#: data/translation/pages/1415047562.php:106
+msgid "Include social icon links in the footer."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:107
+#: data/translation/pages/1415047562.php:107
+msgid "Icon link URL (e.g. https://twitter.com/parallelus)"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:108
+#: data/translation/pages/1415047562.php:108
+msgid "Select the content type for the overlap element or hide the area."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:109
+#: data/translation/pages/1415047562.php:109
+msgid "The background color for footer overlap."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:110
+#: data/translation/pages/1415047562.php:110
+msgid "The background image for footer overlap."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:111
+#: data/translation/pages/1415047562.php:111
+msgid "Select a Ninja Form for the source."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:112
+#: data/translation/pages/1415047562.php:112
+msgid ""
+"Select a logo for the WordPress login screen &lt;code&gt;/wp-admin&lt;/"
+"code&gt;. &lt;br&gt;Recommended size: 400px &amp;times; 400px. Displays at "
+"maximum height of 200px."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:113
+#: data/translation/pages/1415047562.php:113
+msgid "Choose the background color of the WordPress login screen."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415047562.php:114
+#: data/translation/pages/1415047562.php:114
+msgid "Choose the background image for the WordPress login screen."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:3
+#: data/translation/pages/1415219587.php:3
+msgid "Home Page"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:4
+#: data/translation/pages/1415219587.php:4
+msgid "Header"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:5
+#: data/translation/pages/1415219587.php:5
+msgid "Home Page Header Options"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:9
+#: data/translation/pages/1415219587.php:9
+msgid "Logo and Menu Position"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:10
+#: data/translation/pages/1415219587.php:10
+msgid "Middle Logo"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:11
+#: data/translation/pages/1415219587.php:11
+msgid "Action Links"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:13
+#: data/translation/pages/1415219587.php:13
+msgid "Link 1"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:14
+#: data/translation/pages/1415219587.php:14
+msgid "Link 2"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:15
+#: data/translation/pages/1415219587.php:15
+msgid "Link 3"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:16
+#: data/translation/pages/1415219587.php:16
+msgid "Link 4"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:17
+#: data/translation/pages/1415219587.php:17
+msgid "Link 1 Settings"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:18
+#: ../runway-framework/extensions/sidebars/views/add-edit-sidebar.php:6
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:58
+#: ../runway-framework/framework/libs/formsbuilder/templates/field-settings-form.php:8
+#: data/translation/pages/1415219587.php:18
+msgid "Title"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:19
+#: data/translation/pages/1415219587.php:19
+msgid "Icon"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:20
+#: data/translation/pages/1415219587.php:20
+msgid "Link URL"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:21
+#: data/translation/pages/1415219587.php:21
+msgid "Link 2 Settings"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:22
+#: data/translation/pages/1415219587.php:22
+msgid "Link 3 Settings"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:23
+#: data/translation/pages/1415219587.php:23
+msgid "Link 4 Settings"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:24
+#: data/translation/pages/1415219587.php:24
+msgid "Top Content"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:25
+#: data/translation/pages/1415219587.php:25
+msgid "Content Below Header"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:27
+#: data/translation/pages/1415219587.php:27
+msgid "Content Area 1 (left)"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:28
+#: data/translation/pages/1415219587.php:28
+msgid "Content Area 2 (right)"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:29
+#: data/translation/pages/1415219587.php:29
+msgid "Column Size"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:30
+#: data/translation/pages/1415219587.php:30
+msgid "Videos"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:31
+#: data/translation/pages/1415219587.php:31
+msgid "Video Section"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:32
+#: data/translation/pages/1415219587.php:32
+msgid "Title Text"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:33
+#: data/translation/pages/1415219587.php:33
+msgid "More Button"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:34
+#: data/translation/pages/1415219587.php:34
+msgid "Video Categories"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:35
+#: data/translation/pages/1415219587.php:35
+msgid "Count"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:36
+#: data/translation/pages/1415219587.php:36
+msgid "Random"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:37
+#: data/translation/pages/1415219587.php:37
+msgid "Default Content"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:38
+#: data/translation/pages/1415219587.php:38
+msgid "Blog Posts or Content Block"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:39
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:68
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:356
+#: data/translation/pages/1415219587.php:39
+msgid "Content Block"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:40
+#: data/translation/pages/1415219587.php:40
+msgid "Blog Categories"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:41
+#: data/translation/pages/1415219587.php:41
+msgid "Post Count"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:42
+#: data/translation/pages/1415219587.php:42
+msgid "Slideshow"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:43
+#: data/translation/pages/1415219587.php:43
+msgid "Slideshow Section"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:44
+#: data/translation/pages/1415219587.php:44
+msgid "Display"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:45
+#: data/translation/pages/1415219587.php:45
+msgid "Simple Slideshow"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:46
+#: data/translation/pages/1415219587.php:46
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:47
+#: data/translation/pages/1415219587.php:47
+msgid "Events"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:48
+#: data/translation/pages/1415219587.php:48
+msgid "Events Timeline"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:49
+#: data/translation/pages/1415219587.php:49
+msgid "Categories"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:50
+#: data/translation/pages/1415219587.php:50
+msgid "Event Count"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:52
+#: data/translation/pages/1415219587.php:52
+msgid "Advanced Settings"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:53
+#: data/translation/pages/1415219587.php:53
+msgid "Custom Header Class"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:55
+#: data/translation/pages/1415219587.php:55
+msgid ""
+"The settings on this page apply to the custom theme home page layout. To use "
+"these settings, ensure you have your <a _tmplitem=\"748\"  href=\"options-"
+"reading.php\">Reading Settings</a> configured such that <b _tmplitem=\"748\" "
+">no page is specified in the \"Front page displays\"</b> option. You can use "
+"either front page setting, page or posts, so long as no specific page is "
+"selected for the home page content.  Choosing a specific static page for "
+"your front page will tell the theme to use the template specified in that "
+"pages settings instead of the theme&#39;s home page layout."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:56
+#: data/translation/pages/1415219587.php:56
+msgid "The size and styles for the header. Default: Large"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:57
+#: data/translation/pages/1415219587.php:57
+msgid "Choose a background image. (optional)"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:58
+#: data/translation/pages/1415219587.php:58
+msgid "Select the placement for the logo and menu area."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:59
+#: data/translation/pages/1415219587.php:59
+msgid ""
+"Select a file for the middle logo position.&lt;br&gt;To change the top logo "
+"(in the menu bar) edit the default &lt;a href=&quot;?page=options-page&quot;"
+"&gt;Theme Options&lt;/a&gt;."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:60
+#: data/translation/pages/1415219587.php:60
+msgid "Show or hide this link"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:61
+#: data/translation/pages/1415219587.php:61
+msgid ""
+"Enter a &lt;a href=&quot;http://fortawesome.github.io/Font-Awesome/icons/"
+"&quot; target=&quot;_blank&quot;&gt;Font Awesome icon class&lt;/a&gt;, for "
+"example &lt;code&gt;fa-check-square-o&lt;/code&gt; or select a file as the "
+"icon image."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:62
+#: data/translation/pages/1415219587.php:62
+msgid "Include section on the home page?"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:63
+#: data/translation/pages/1415219587.php:63
+msgid "(optional)"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:64
+#: data/translation/pages/1415219587.php:64
+msgid ""
+"Select a content block for the source, or choose &quot;Disabled&quot; to "
+"hide this area."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:65
+#: data/translation/pages/1415219587.php:65
+msgid ""
+"Set the size of the containers. The &quot;full width&quot; option will apply "
+"to both content areas."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:66
+#: data/translation/pages/1415219587.php:66
+msgid "The title for the Videos section."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:67
+#: data/translation/pages/1415219587.php:67
+msgid "The text for the more button."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:68
+#: data/translation/pages/1415219587.php:68
+msgid ""
+"Select the video categories to optionally limit results. &lt;br&gt;Ctrl/Cmd "
+"+ click to select multiple items."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:69
+#: data/translation/pages/1415219587.php:69
+msgid ""
+"Select number of videos to display. Auto uses all videos for the selected "
+"category. &lt;br&gt;Recommended setting: 4"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:70
+#: data/translation/pages/1415219587.php:70
+msgid "Show in random order."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:71
+#: data/translation/pages/1415219587.php:71
+msgid "The title for the News Articles &amp; Blogs section."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:73
+#: data/translation/pages/1415219587.php:73
+msgid "Set the size of the content container."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:74
+#: data/translation/pages/1415219587.php:74
+msgid "Select the blog categories to include."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:75
+#: data/translation/pages/1415219587.php:75
+msgid "Select the number of posts to display. Recommended setting: 4"
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:76
+#: data/translation/pages/1415219587.php:76
+msgid ""
+"Select a content source for the slide show or choose &quot;Hide&quot; to "
+"disable this section."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:77
+#: data/translation/pages/1415219587.php:77
+msgid "Select a slideshow."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:78
+#: data/translation/pages/1415219587.php:78
+msgid ""
+"Select the categories to optionally limit event results. &lt;br&gt;Ctrl/Cmd "
+"+ click to select multiple items."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:79
+#: data/translation/pages/1415219587.php:79
+msgid ""
+"Add a custom CSS class to the header container. This is an optional feature "
+"for advanced users.."
+msgstr ""
+
+#: ../parallelus-frontrunner/data/translation/pages/1415219587.php:80
+#: data/translation/pages/1415219587.php:80
+msgid ""
+"Add custom CSS rules to be applied to the page whenever the home page header "
+"is displayed."
+msgstr ""
+
+#: ../parallelus-frontrunner/functions.php:49 functions.php:49
+msgid "Primary Menu"
+msgstr ""
+
+#: ../parallelus-frontrunner/functions.php:78 functions.php:78
+msgid "Main Menu (left)"
+msgstr ""
+
+#: ../parallelus-frontrunner/functions.php:79 functions.php:79
+msgid "Alternate Menu (right)"
+msgstr ""
+
+#: ../parallelus-frontrunner/functions.php:80 functions.php:80
+msgid "Footer Menu"
+msgstr ""
+
+#: ../parallelus-frontrunner/functions.php:196 functions.php:196
+msgid "On the Issues"
+msgstr ""
+
+#: ../parallelus-frontrunner/image.php:18 image.php:18
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: ../parallelus-frontrunner/image.php:29
+#: ../parallelus-frontrunner/image.php:79
+#: ../runway-framework/extensions/sidebars/views/admin-home.php:31
+#: ../runway-framework/extensions/theme-utilities/functions-template.php:106
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:32
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:940
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:143
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:198
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:215
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:28
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:162
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:230
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:60
+#: ../runway-framework/framework/libs/formsbuilder/templates/base-fields.php:8
+#: ../runway-framework/framework/libs/formsbuilder/templates/base-fields.php:27
+#: ../runway-framework/framework/libs/formsbuilder/templates/base-fields.php:47
+#: ../runway-framework/framework/translations-js.php:47 image.php:29
+#: image.php:79
+msgid "Edit"
+msgstr ""
+
+#: ../parallelus-frontrunner/image.php:34 image.php:34
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../parallelus-frontrunner/image.php:35 image.php:35
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../parallelus-frontrunner/image.php:46 image.php:46
+msgid "Function not found "
+msgstr ""
+
+#: ../parallelus-frontrunner/image.php:70 image.php:70
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: ../parallelus-frontrunner/image.php:72 image.php:72
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: ../parallelus-frontrunner/image.php:74 image.php:74
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: ../parallelus-frontrunner/image.php:76 image.php:76
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: ../parallelus-frontrunner/no-results.php:9 no-results.php:9
+msgid "Nothing Found"
+msgstr ""
+
+#: ../parallelus-frontrunner/no-results.php:15 no-results.php:15
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../parallelus-frontrunner/no-results.php:19 no-results.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../parallelus-frontrunner/no-results.php:23 no-results.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../parallelus-frontrunner/search.php:23
+#: ../parallelus-frontrunner/searchform.php:8 search.php:23 searchform.php:8
+msgid "Search..."
+msgstr ""
+
+#: ../parallelus-frontrunner/search.php:37 search.php:37
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../parallelus-frontrunner/searchform.php:8 searchform.php:8
+msgid "Search for:"
+msgstr ""
+
+#: ../parallelus-frontrunner/searchform.php:9
+#: ../runway-framework/extensions/theme-utilities/default-sidebars.php:40
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:75
+#: searchform.php:9
+msgid "Search"
+msgstr ""
+
+#: ../parallelus-frontrunner/templates/parts/home-section-slideshow.php:103
+#: templates/parts/home-section-slideshow.php:103
+msgid "More"
+msgstr ""
+
+#: ../parallelus-frontrunner/templates/parts/menu-main.php:48
+#: templates/parts/menu-main.php:48
+msgid "Toggle navigation"
+msgstr ""
+
+#: ../parallelus-frontrunner/templates/parts/menu-main.php:89
+#: ../parallelus-frontrunner/templates/parts/menu-main.php:105
+#: templates/parts/menu-main.php:89 templates/parts/menu-main.php:105
+msgid ""
+"Please make sure the Bootstrap Navigation extension is active. Go to "
+"\"Runway > Extensions\" to activate."
+msgstr ""
+
+#: ../runway-framework/data-types/checkbox-bool-type.php:35
+#: ../runway-framework/data-types/checkbox-bool-type.php:46
+#: ../runway-framework/data-types/checkbox-bool-type.php:59
+#: ../runway-framework/data-types/checkbox-bool-type.php:105
+#: ../runway-framework/data-types/checkbox-type.php:265
+#: ../runway-framework/data-types/checkbox-type.php:290
+#: ../runway-framework/data-types/code-editor/code-editor-type.php:142
+#: ../runway-framework/data-types/code-editor/code-editor-type.php:243
+#: ../runway-framework/data-types/colorpicker-type.php:210
+#: ../runway-framework/data-types/colorpicker-type.php:234
+#: ../runway-framework/data-types/datepicker-type.php:227
+#: ../runway-framework/data-types/datepicker-type.php:248
+#: ../runway-framework/data-types/datepicker-type.php:268
+#: ../runway-framework/data-types/fileupload-type.php:216
+#: ../runway-framework/data-types/fileupload-type.php:242
+#: ../runway-framework/data-types/input-text.php:127
+#: ../runway-framework/data-types/input-text.php:185
+#: ../runway-framework/data-types/multi-select-type.php:196
+#: ../runway-framework/data-types/multi-select-type.php:222
+#: ../runway-framework/data-types/radio-buttons-image.php:237
+#: ../runway-framework/data-types/radio-buttons-image.php:263
+#: ../runway-framework/data-types/radio-buttons.php:171
+#: ../runway-framework/data-types/radio-buttons.php:197
+#: ../runway-framework/data-types/select-type.php:156
+#: ../runway-framework/data-types/text-editor.php:108
+#: ../runway-framework/data-types/textarea-type.php:122
+#: ../runway-framework/data-types/textarea-type.php:162
+#: ../runway-framework/framework/includes/load-functions.php:1029
+#: ../runway-framework/framework/libs/formsbuilder/templates/container-settings-form.php:50
+#: ../runway-framework/framework/libs/formsbuilder/templates/page-settings.php:22
+msgid "Yes"
+msgstr ""
+
+#: ../runway-framework/data-types/checkbox-bool-type.php:37
+#: ../runway-framework/data-types/checkbox-bool-type.php:181
+#: ../runway-framework/data-types/checkbox-type.php:117
+#: ../runway-framework/data-types/checkbox-type.php:393
+#: ../runway-framework/data-types/colorpicker-type.php:48
+#: ../runway-framework/data-types/colorpicker-type.php:314
+#: ../runway-framework/data-types/data-type.php:235
+#: ../runway-framework/data-types/datepicker-type.php:53
+#: ../runway-framework/data-types/datepicker-type.php:406
+#: ../runway-framework/data-types/fileupload-type.php:50
+#: ../runway-framework/data-types/fileupload-type.php:322
+#: ../runway-framework/data-types/input-text.php:50
+#: ../runway-framework/data-types/multi-select-type.php:77
+#: ../runway-framework/data-types/multi-select-type.php:336
+#: ../runway-framework/data-types/radio-buttons-image.php:129
+#: ../runway-framework/data-types/radio-buttons-image.php:384
+#: ../runway-framework/data-types/radio-buttons.php:88
+#: ../runway-framework/data-types/radio-buttons.php:315
+#: ../runway-framework/data-types/select-type.php:87
+#: ../runway-framework/data-types/select-type.php:280
+#: ../runway-framework/data-types/textarea-type.php:48
+#: ../runway-framework/data-types/textarea-type.php:230
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1478
+#: ../runway-framework/extensions/sidebars/views/admin-home.php:32
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:38
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:66
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:42
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:944
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:144
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:202
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:216
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:236
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:353
+#: ../runway-framework/framework/libs/formsbuilder/templates/base-fields.php:9
+#: ../runway-framework/framework/libs/formsbuilder/templates/base-fields.php:29
+#: ../runway-framework/framework/libs/formsbuilder/templates/base-fields.php:49
+msgid "Delete"
+msgstr ""
+
+#: ../runway-framework/data-types/checkbox-bool-type.php:76
+msgid "Value"
+msgstr ""
+
+#: ../runway-framework/data-types/checkbox-bool-type.php:87
+msgid "Checked"
+msgstr ""
+
+#: ../runway-framework/data-types/checkbox-bool-type.php:96
+#: ../runway-framework/data-types/checkbox-type.php:281
+#: ../runway-framework/data-types/colorpicker-type.php:225
+#: ../runway-framework/data-types/datepicker-type.php:259
+#: ../runway-framework/data-types/fileupload-type.php:233
+#: ../runway-framework/data-types/input-text.php:176
+#: ../runway-framework/data-types/multi-select-type.php:213
+#: ../runway-framework/data-types/radio-buttons-image.php:254
+#: ../runway-framework/data-types/radio-buttons.php:188
+#: ../runway-framework/data-types/select-type.php:147
+#: ../runway-framework/data-types/textarea-type.php:153
+#: ../runway-framework/framework/translations-js.php:32
+msgid "Repeating"
+msgstr ""
+
+#: ../runway-framework/data-types/checkbox-bool-type.php:107
+#: ../runway-framework/data-types/checkbox-type.php:292
+#: ../runway-framework/data-types/colorpicker-type.php:236
+#: ../runway-framework/data-types/datepicker-type.php:270
+#: ../runway-framework/data-types/fileupload-type.php:244
+#: ../runway-framework/data-types/input-text.php:187
+#: ../runway-framework/data-types/multi-select-type.php:224
+#: ../runway-framework/data-types/radio-buttons-image.php:265
+#: ../runway-framework/data-types/radio-buttons.php:199
+#: ../runway-framework/data-types/select-type.php:158
+#: ../runway-framework/data-types/textarea-type.php:164
+msgid "Can this field repeat with multiple values?"
+msgstr ""
+
+#: ../runway-framework/data-types/checkbox-bool-type.php:137
+msgid "Checkbox (true / false)"
+msgstr ""
+
+#: ../runway-framework/data-types/checkbox-bool-type.php:157
+#: ../runway-framework/data-types/checkbox-type.php:363
+#: ../runway-framework/data-types/colorpicker-type.php:286
+#: ../runway-framework/data-types/datepicker-type.php:378
+#: ../runway-framework/data-types/fileupload-type.php:293
+#: ../runway-framework/data-types/multi-select-type.php:296
+#: ../runway-framework/data-types/radio-buttons-image.php:350
+#: ../runway-framework/data-types/radio-buttons.php:281
+#: ../runway-framework/data-types/textarea-type.php:203
+msgid "Add Field"
+msgstr ""
+
+#: ../runway-framework/data-types/checkbox-type.php:240
+#: ../runway-framework/data-types/code-editor/code-editor-type.php:117
+#: ../runway-framework/data-types/colorpicker-type.php:188
+#: ../runway-framework/data-types/datepicker-type.php:167
+#: ../runway-framework/data-types/fileupload-type.php:192
+#: ../runway-framework/data-types/input-text.php:105
+#: ../runway-framework/data-types/multi-select-type.php:171
+#: ../runway-framework/data-types/radio-buttons-image.php:212
+#: ../runway-framework/data-types/radio-buttons.php:146
+#: ../runway-framework/data-types/select-type.php:131
+#: ../runway-framework/data-types/text-editor.php:83
+#: ../runway-framework/data-types/textarea-type.php:97
+msgid "Values"
+msgstr ""
+
+#: ../runway-framework/data-types/checkbox-type.php:254
+#: ../runway-framework/data-types/code-editor/code-editor-type.php:131
+#: ../runway-framework/data-types/colorpicker-type.php:199
+#: ../runway-framework/data-types/datepicker-type.php:188
+#: ../runway-framework/data-types/fileupload-type.php:205
+#: ../runway-framework/data-types/input-text.php:116
+#: ../runway-framework/data-types/multi-select-type.php:185
+#: ../runway-framework/data-types/radio-buttons-image.php:226
+#: ../runway-framework/data-types/radio-buttons.php:160
+#: ../runway-framework/data-types/text-editor.php:97
+#: ../runway-framework/data-types/textarea-type.php:111
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1172
+#: ../runway-framework/extensions/sidebars/views/add-edit-sidebar.php:7
+#: ../runway-framework/extensions/sidebars/views/add-edit-sidebar.php:16
+#: ../runway-framework/framework/includes/themes-manager/admin.php:6
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:32
+msgid "Required"
+msgstr ""
+
+#: ../runway-framework/data-types/checkbox-type.php:268
+#: ../runway-framework/data-types/code-editor/code-editor-type.php:145
+#: ../runway-framework/data-types/colorpicker-type.php:213
+#: ../runway-framework/data-types/datepicker-type.php:202
+#: ../runway-framework/data-types/fileupload-type.php:219
+#: ../runway-framework/data-types/input-text.php:130
+#: ../runway-framework/data-types/multi-select-type.php:199
+#: ../runway-framework/data-types/radio-buttons-image.php:240
+#: ../runway-framework/data-types/radio-buttons.php:174
+#: ../runway-framework/data-types/text-editor.php:111
+#: ../runway-framework/data-types/textarea-type.php:125
+msgid "Is this a required field?"
+msgstr ""
+
+#: ../runway-framework/data-types/checkbox-type.php:272
+#: ../runway-framework/data-types/code-editor/code-editor-type.php:149
+#: ../runway-framework/data-types/colorpicker-type.php:217
+#: ../runway-framework/data-types/datepicker-type.php:206
+#: ../runway-framework/data-types/fileupload-type.php:223
+#: ../runway-framework/data-types/input-text.php:134
+#: ../runway-framework/data-types/multi-select-type.php:203
+#: ../runway-framework/data-types/radio-buttons-image.php:244
+#: ../runway-framework/data-types/radio-buttons.php:178
+#: ../runway-framework/data-types/text-editor.php:115
+#: ../runway-framework/data-types/textarea-type.php:129
+msgid "Optional. Enter a custom error message."
+msgstr ""
+
+#: ../runway-framework/data-types/checkbox-type.php:310
+msgid "Checkbox List"
+msgstr ""
+
+#: ../runway-framework/data-types/code-editor/code-editor-type.php:158
+#: ../runway-framework/data-types/font-select/font-select-type.php:368
+#: ../runway-framework/data-types/range-slider/range-slider-type.php:153
+#: ../runway-framework/data-types/textarea-type.php:138
+msgid "CSS Class"
+msgstr ""
+
+#: ../runway-framework/data-types/code-editor/code-editor-type.php:172
+msgid "Width"
+msgstr ""
+
+#: ../runway-framework/data-types/code-editor/code-editor-type.php:186
+msgid "Height"
+msgstr ""
+
+#: ../runway-framework/data-types/code-editor/code-editor-type.php:200
+msgid "Code editor type"
+msgstr ""
+
+#: ../runway-framework/data-types/code-editor/code-editor-type.php:206
+#: ../runway-framework/data-types/datepicker-type.php:152
+#: ../runway-framework/framework/translations-js.php:34
+msgid "Default"
+msgstr ""
+
+#: ../runway-framework/data-types/code-editor/code-editor-type.php:207
+msgid "ACE"
+msgstr ""
+
+#: ../runway-framework/data-types/code-editor/code-editor-type.php:216
+msgid "Editor language"
+msgstr ""
+
+#: ../runway-framework/data-types/code-editor/code-editor-type.php:232
+msgid "Enable Vim keys"
+msgstr ""
+
+#: ../runway-framework/data-types/code-editor/code-editor-type.php:263
+msgid "Code editor"
+msgstr ""
+
+#: ../runway-framework/data-types/colorpicker-type.php:263
+#: ../runway-framework/framework/libs/formsbuilder/templates/field-settings-form.php:66
+msgid "Colorpicker"
+msgstr ""
+
+#: ../runway-framework/data-types/data-type.php:152
+msgid "Conditional Display"
+msgstr ""
+
+#: ../runway-framework/data-types/data-type.php:153
+msgid ""
+"Use the value of another option to conditionally show or hide this option."
+msgstr ""
+
+#: ../runway-framework/data-types/data-type.php:158
+msgid "Control alias"
+msgstr ""
+
+#: ../runway-framework/data-types/data-type.php:162
+msgid "Alias of the control option."
+msgstr ""
+
+#: ../runway-framework/data-types/data-type.php:168
+msgid "Control value"
+msgstr ""
+
+#: ../runway-framework/data-types/data-type.php:172
+msgid "Value of the control option to trigger display."
+msgstr ""
+
+#: ../runway-framework/data-types/data-type.php:178
+msgid "Display action"
+msgstr ""
+
+#: ../runway-framework/data-types/data-type.php:182
+#: ../runway-framework/data-types/data-type.php:185
+msgid "Show"
+msgstr ""
+
+#: ../runway-framework/data-types/data-type.php:183
+#: ../runway-framework/data-types/data-type.php:186
+msgid "Hide"
+msgstr ""
+
+#: ../runway-framework/data-types/data-type.php:188
+msgid "The action triggered by the conditional value."
+msgstr ""
+
+#: ../runway-framework/data-types/datepicker-type.php:147
+#: ../runway-framework/framework/translations-js.php:30
+msgid "Date format"
+msgstr ""
+
+#: ../runway-framework/data-types/datepicker-type.php:154
+msgid "Short"
+msgstr ""
+
+#: ../runway-framework/data-types/datepicker-type.php:155
+msgid "Medium"
+msgstr ""
+
+#: ../runway-framework/data-types/datepicker-type.php:156
+msgid "Full"
+msgstr ""
+
+#: ../runway-framework/data-types/datepicker-type.php:157
+msgid "With text"
+msgstr ""
+
+#: ../runway-framework/data-types/datepicker-type.php:157
+#: ../runway-framework/data-types/datepicker-type.php:306
+#: ../runway-framework/data-types/datepicker-type.php:313
+msgid "day"
+msgstr ""
+
+#: ../runway-framework/data-types/datepicker-type.php:157
+#: ../runway-framework/data-types/datepicker-type.php:307
+#: ../runway-framework/data-types/datepicker-type.php:313
+#: ../runway-framework/framework/includes/dashboard/views/credits.php:26
+msgid "of"
+msgstr ""
+
+#: ../runway-framework/data-types/datepicker-type.php:157
+#: ../runway-framework/data-types/datepicker-type.php:308
+#: ../runway-framework/data-types/datepicker-type.php:313
+#: ../runway-framework/data-types/datepicker-type.php:319
+msgid "in the year"
+msgstr ""
+
+#: ../runway-framework/data-types/datepicker-type.php:179
+msgid "You can input default value respectively with selected in format field."
+msgstr ""
+
+#: ../runway-framework/data-types/datepicker-type.php:215
+msgid "Month changer"
+msgstr ""
+
+#: ../runway-framework/data-types/datepicker-type.php:237
+msgid "Year changer"
+msgstr ""
+
+#: ../runway-framework/data-types/datepicker-type.php:300
+#: ../runway-framework/framework/libs/formsbuilder/templates/field-settings-form.php:67
+msgid "Datepicker"
+msgstr ""
+
+#: ../runway-framework/data-types/fileupload-type.php:48
+#: ../runway-framework/data-types/fileupload-type.php:61
+#: ../runway-framework/data-types/fileupload-type.php:128
+msgid "Select File"
+msgstr ""
+
+#: ../runway-framework/data-types/fileupload-type.php:274
+#: ../runway-framework/framework/libs/formsbuilder/templates/field-settings-form.php:65
+msgid "File upload"
+msgstr ""
+
+#: ../runway-framework/data-types/font-select/font-select-type.php:109
+msgid "Edit Font Options"
+msgstr ""
+
+#: ../runway-framework/data-types/font-select/font-select-type.php:116
+msgid "Preview text"
+msgstr ""
+
+#: ../runway-framework/data-types/font-select/font-select-type.php:119
+msgid "Preview Test"
+msgstr ""
+
+#: ../runway-framework/data-types/font-select/font-select-type.php:120
+msgid "Preview text."
+msgstr ""
+
+#: ../runway-framework/data-types/font-select/font-select-type.php:138
+msgid "Open Sans"
+msgstr ""
+
+#: ../runway-framework/data-types/font-select/font-select-type.php:147
+msgid "Style"
+msgstr ""
+
+#: ../runway-framework/data-types/font-select/font-select-type.php:151
+msgid "Normal"
+msgstr ""
+
+#: ../runway-framework/data-types/font-select/font-select-type.php:152
+msgid "Italic"
+msgstr ""
+
+#: ../runway-framework/data-types/font-select/font-select-type.php:164
+#: ../runway-framework/data-types/font-select/font-select-type.php:393
+msgid "normal, bold, 300, 600, 800"
+msgstr ""
+
+#: ../runway-framework/data-types/font-select/font-select-type.php:175
+#: ../runway-framework/data-types/font-select/font-select-type.php:404
+msgid "12, 24px, 1em, 1.75"
+msgstr ""
+
+#: ../runway-framework/data-types/font-select/font-select-type.php:192
+msgid "Close"
+msgstr ""
+
+#: ../runway-framework/data-types/font-select/font-select-type.php:193
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:31
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:77
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:93
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:60
+msgid "Cancel"
+msgstr ""
+
+#: ../runway-framework/data-types/font-select/font-select-type.php:429
+msgid "Font select"
+msgstr ""
+
+#: ../runway-framework/data-types/input-text.php:140
+msgid "Validation"
+msgstr ""
+
+#: ../runway-framework/data-types/input-text.php:146
+msgid "None"
+msgstr ""
+
+#: ../runway-framework/data-types/input-text.php:147
+msgid "Url"
+msgstr ""
+
+#: ../runway-framework/data-types/input-text.php:148
+msgid "Email"
+msgstr ""
+
+#: ../runway-framework/data-types/input-text.php:149
+msgid "Alpha"
+msgstr ""
+
+#: ../runway-framework/data-types/input-text.php:150
+msgid "Alpha num"
+msgstr ""
+
+#: ../runway-framework/data-types/input-text.php:151
+msgid "Numeric"
+msgstr ""
+
+#: ../runway-framework/data-types/input-text.php:167
+msgid "Optional. Validation error message."
+msgstr ""
+
+#: ../runway-framework/data-types/input-text.php:205
+msgid "Input text"
+msgstr ""
+
+#: ../runway-framework/data-types/multi-select-type.php:66
+#: ../runway-framework/data-types/multi-select-type.php:106
+#: ../runway-framework/data-types/multi-select-type.php:320
+#: ../runway-framework/framework/libs/Html.php:472
+msgid "No value"
+msgstr ""
+
+#: ../runway-framework/data-types/multi-select-type.php:242
+#: ../runway-framework/framework/libs/formsbuilder/templates/field-settings-form.php:64
+msgid "Multiselect"
+msgstr ""
+
+#: ../runway-framework/data-types/radio-buttons-image.php:192
+msgid "Image size"
+msgstr ""
+
+#: ../runway-framework/data-types/radio-buttons-image.php:197
+msgid "Real size"
+msgstr ""
+
+#: ../runway-framework/data-types/radio-buttons-image.php:298
+msgid "INSERT LINK TO IMAGE"
+msgstr ""
+
+#: ../runway-framework/data-types/radio-buttons.php:228
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:57
+#: ../runway-framework/framework/libs/formsbuilder/templates/field-settings-form.php:61
+msgid "Radio buttons"
+msgstr ""
+
+#: ../runway-framework/data-types/range-slider/range-slider-type.php:167
+msgid "Start"
+msgstr ""
+
+#: ../runway-framework/data-types/range-slider/range-slider-type.php:172
+msgid "First handle start position."
+msgstr ""
+
+#: ../runway-framework/data-types/range-slider/range-slider-type.php:174
+msgid "Second handle start position. (optional)"
+msgstr ""
+
+#: ../runway-framework/data-types/range-slider/range-slider-type.php:181
+msgid "Range min"
+msgstr ""
+
+#: ../runway-framework/data-types/range-slider/range-slider-type.php:192
+msgid "Range max"
+msgstr ""
+
+#: ../runway-framework/data-types/range-slider/range-slider-type.php:203
+msgid "Connect"
+msgstr ""
+
+#: ../runway-framework/data-types/range-slider/range-slider-type.php:207
+msgid "False"
+msgstr ""
+
+#: ../runway-framework/data-types/range-slider/range-slider-type.php:208
+msgid "True"
+msgstr ""
+
+#: ../runway-framework/data-types/range-slider/range-slider-type.php:216
+msgid "Margin"
+msgstr ""
+
+#: ../runway-framework/data-types/range-slider/range-slider-type.php:221
+msgid ""
+"When using two handles, the minimum distance between the handles can be set "
+"using the margin option"
+msgstr ""
+
+#: ../runway-framework/data-types/range-slider/range-slider-type.php:228
+msgid "Step"
+msgstr ""
+
+#: ../runway-framework/data-types/range-slider/range-slider-type.php:239
+msgid "Orientation"
+msgstr ""
+
+#: ../runway-framework/data-types/range-slider/range-slider-type.php:243
+msgid "Horizontal"
+msgstr ""
+
+#: ../runway-framework/data-types/range-slider/range-slider-type.php:244
+msgid "Vertical"
+msgstr ""
+
+#: ../runway-framework/data-types/range-slider/range-slider-type.php:252
+msgid "Direction"
+msgstr ""
+
+#: ../runway-framework/data-types/range-slider/range-slider-type.php:256
+msgid "Left-to-right"
+msgstr ""
+
+#: ../runway-framework/data-types/range-slider/range-slider-type.php:257
+msgid "Right-to-left"
+msgstr ""
+
+#: ../runway-framework/data-types/range-slider/range-slider-type.php:276
+msgid "Range slider"
+msgstr ""
+
+#: ../runway-framework/data-types/select-type.php:137
+#, php-format
+msgid "Enter options in the format: %s key=>value %s"
+msgstr ""
+
+#: ../runway-framework/data-types/select-type.php:187
+#: ../runway-framework/framework/libs/formsbuilder/templates/field-settings-form.php:63
+msgid "Select"
+msgstr ""
+
+#: ../runway-framework/data-types/text-editor.php:147
+msgid "Text editor"
+msgstr ""
+
+#: ../runway-framework/data-types/textarea-type.php:182
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:57
+#: ../runway-framework/framework/libs/formsbuilder/templates/field-settings-form.php:58
+msgid "Textarea"
+msgstr ""
+
+#: ../runway-framework/extensions/custom-header/custom-header.php:207
+#: ../runway-framework/extensions/theme-utilities/hooks-filters.php:302
+msgid "Posts by"
+msgstr ""
+
+#: ../runway-framework/extensions/custom-header/custom-header.php:231
+#, php-format
+msgid "Search Results for: %1$s"
+msgstr ""
+
+#: ../runway-framework/extensions/custom-header/custom-header.php:235
+#: ../runway-framework/framework/includes/options-builder/admin.php:52
+#: ../runway-framework/framework/includes/options-builder/admin.php:80
+#: ../runway-framework/framework/includes/options-builder/admin.php:116
+msgid "Page not found"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/admin.php:5
+#: ../runway-framework/extensions/plugin-installer/load.php:60
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:69
+#: ../runway-framework/framework/translations-js.php:45
+msgid "Add New"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/admin.php:18
+#: ../runway-framework/framework/includes/download-directory/views/add-ons.php:81
+msgid "Plugins"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/admin.php:20
+#: ../runway-framework/framework/includes/download-directory/views/add-ons.php:80
+#: ../runway-framework/framework/includes/extensions-manager/load.php:24
+#: ../runway-framework/framework/includes/theme-updater/settings-object.php:490
+msgid "Extensions"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/admin.php:76
+msgid "Sorry, your nonce did not verify."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/admin.php:89
+msgid "File must have <b>.zip</b> extension Please choose another file."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/admin.php:94
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:93
+msgid "Select a file"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:148
+#: ../runway-framework/extensions/plugin-installer/settings-object.php:209
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:149
+msgid "Install Plugins"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:150
+#: ../runway-framework/extensions/plugin-installer/settings-object.php:211
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:151
+msgid "Something went wrong."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:152
+#: ../runway-framework/extensions/plugin-installer/settings-object.php:213
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:153
+#: ../runway-framework/extensions/plugin-installer/settings-object.php:214
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:154
+#: ../runway-framework/extensions/plugin-installer/settings-object.php:215
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:155
+#: ../runway-framework/extensions/plugin-installer/settings-object.php:216
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:156
+#: ../runway-framework/extensions/plugin-installer/settings-object.php:217
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:157
+#: ../runway-framework/extensions/plugin-installer/settings-object.php:218
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:158
+#: ../runway-framework/extensions/plugin-installer/settings-object.php:219
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:159
+#: ../runway-framework/extensions/plugin-installer/settings-object.php:220
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:160
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:95
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:96
+#: ../runway-framework/framework/includes/download-directory/views/search.php:18
+#: ../runway-framework/framework/includes/download-directory/views/search.php:19
+msgid "Install Now"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:161
+#: ../runway-framework/extensions/plugin-installer/settings-object.php:222
+msgid "Activate installed plugin"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:162
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:504
+#: ../runway-framework/extensions/plugin-installer/settings-object.php:223
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:163
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2051
+#: ../runway-framework/extensions/plugin-installer/settings-object.php:224
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:164
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:531
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1426
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2263
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:571
+#, php-format
+msgid "The following plugin was installed and activated successfully: %s."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:734
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1157
+msgid "External Link"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1162
+msgid "Private Repository"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1165
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1169
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1172
+msgid "Recommended"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1175
+msgid "Not Installed"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1177
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1179
+msgid "Installed And Activated"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1281
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1473
+#: ../runway-framework/framework/includes/download-directory/views/add-ons.php:115
+#: ../runway-framework/framework/includes/download-directory/views/add-ons.php:146
+#: ../runway-framework/framework/includes/themes-manager/load.php:70
+msgid "Install"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1309
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1474
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:36
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:65
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:936
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:76
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:203
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:215
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:346
+msgid "Activate"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1332
+msgid "Delete from the list"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1409
+msgid "Save"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1425
+msgid "No plugins to install or activate."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1443
+msgid "Plugin"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1444
+msgid "Source"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1445
+msgid "Type"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1446
+msgid "Status"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1453
+msgid "Action"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:1725
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2034
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:55
+msgid "Install package not available."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2035
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:56
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2036
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:57
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2037
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2038
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2039
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2050
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2160
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2161
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2161
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2170
+msgid "Show Details"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2161
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2170
+msgid "Hide Details"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2162
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2163
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2167
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2168
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2169
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2170
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2171
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/install/class-plugin-installer.php:2172
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/load.php:26
+msgid "Plugin Installer"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/load.php:93
+#: ../runway-framework/extensions/plugin-installer/load.php:94
+#: ../runway-framework/extensions/plugin-installer/load.php:101
+#: ../runway-framework/extensions/plugin-installer/load.php:102
+msgid "Plugin Installer directory"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/load.php:93
+#: ../runway-framework/framework/includes/download-directory/load.php:74
+#: ../runway-framework/framework/includes/options-builder/load.php:92
+msgid "is exists"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/load.php:94
+#: ../runway-framework/framework/includes/download-directory/load.php:75
+#: ../runway-framework/framework/includes/options-builder/load.php:93
+msgid "is not exists"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/load.php:101
+#: ../runway-framework/framework/includes/download-directory/load.php:82
+#: ../runway-framework/framework/includes/extensions-manager/load.php:75
+#: ../runway-framework/framework/includes/options-builder/load.php:100
+msgid "is writable"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/load.php:102
+#: ../runway-framework/framework/includes/download-directory/load.php:83
+#: ../runway-framework/framework/includes/extensions-manager/load.php:76
+#: ../runway-framework/framework/includes/options-builder/load.php:101
+msgid "is not writable"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/object.php:160
+msgid "Plugin Name"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/object.php:161
+msgid "Plugin URI"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/object.php:162
+#: ../runway-framework/extensions/plugin-installer/views/extensions.php:30
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:80
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:100
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:117
+#: ../runway-framework/framework/includes/download-directory/views/search.php:5
+#: ../runway-framework/framework/includes/download-directory/views/search.php:33
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:77
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:897
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:121
+msgid "Version"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/object.php:163
+#: ../runway-framework/extensions/plugin-installer/views/extensions.php:7
+#: ../runway-framework/extensions/sidebars/views/add-edit-sidebar.php:24
+#: ../runway-framework/extensions/sidebars/views/admin-home.php:10
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:81
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:118
+#: ../runway-framework/framework/includes/download-directory/views/search.php:6
+#: ../runway-framework/framework/includes/download-directory/views/search.php:34
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:49
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:10
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:65
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:110
+#: ../runway-framework/framework/libs/formsbuilder/templates/page-settings.php:116
+msgid "Description"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/object.php:164
+msgid "Author"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/object.php:165
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:118
+msgid "Author URI"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/settings-object.php:36
+#: ../runway-framework/extensions/plugin-installer/settings-object.php:46
+msgid "Enter valid url to plugin."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/settings-object.php:210
+msgid "Theme Plugins"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/settings-object.php:212
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/settings-object.php:221
+msgid "Begin installing plugin"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/settings-object.php:225
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/views/add-plugin.php:9
+msgid "Upload a File"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/views/add-plugin.php:11
+msgid "Copy a plugin in .zip format to Plugin Installer plugins folder"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/views/add-plugin.php:12
+msgid ""
+"If you have a plugin in a .zip format, you may copy it by uploading it here."
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/views/add-plugin.php:15
+#: ../runway-framework/framework/includes/extensions-manager/views/add-extension.php:21
+msgid "Plugin zip file"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/views/add-plugin.php:17
+msgid "Copy Now"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/views/add-plugin.php:20
+msgid "OR"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/views/add-plugin.php:22
+msgid "Select a Plugin from the WordPress Repository"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/views/add-plugin.php:25
+msgid "Plugin URL"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/views/add-plugin.php:27
+msgid "Select Plugin"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/views/extensions.php:6
+#: ../runway-framework/framework/includes/extensions-manager/settings-object.php:258
+#: ../runway-framework/framework/includes/extensions-manager/settings-object.php:520
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:48
+msgid "Extension"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/views/extensions.php:34
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:81
+msgid "Visit author homepage"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/views/extensions.php:40
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:87
+msgid "Visit plugin site"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/views/extensions.php:52
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:110
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:129
+msgid "Extensions not found"
+msgstr ""
+
+#: ../runway-framework/extensions/plugin-installer/views/extensions.php:60
+msgid "Allow Install as Plugin"
+msgstr ""
+
+#: ../runway-framework/extensions/sidebars/load.php:23
+msgid "Sidebars"
+msgstr ""
+
+#: ../runway-framework/extensions/sidebars/load.php:53
+msgid "Add new sidebar"
+msgstr ""
+
+#: ../runway-framework/extensions/sidebars/settings-object.php:105
+#: ../runway-framework/extensions/sidebars/settings-object.php:131
+msgid "You must enter a title."
+msgstr ""
+
+#: ../runway-framework/extensions/sidebars/views/add-edit-sidebar.php:32
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:98
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:124
+#: ../runway-framework/framework/libs/formsbuilder/render-form.php:154
+msgid "Save Settings"
+msgstr ""
+
+#: ../runway-framework/extensions/sidebars/views/admin-home.php:7
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:79
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:116
+#: ../runway-framework/framework/includes/download-directory/views/search.php:4
+#: ../runway-framework/framework/includes/download-directory/views/search.php:32
+msgid "Name"
+msgstr ""
+
+#: ../runway-framework/extensions/sidebars/views/admin-home.php:8
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:8
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:63
+#: ../runway-framework/framework/libs/formsbuilder/templates/field-settings-form.php:35
+msgid "Alias"
+msgstr ""
+
+#: ../runway-framework/extensions/sidebars/views/admin-home.php:9
+msgid "Shortcode"
+msgstr ""
+
+#: ../runway-framework/extensions/sidebars/views/admin-home.php:11
+msgid "Actions"
+msgstr ""
+
+#: ../runway-framework/extensions/sidebars/views/admin-home.php:40
+msgid "No custom sidebars have been created yet."
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/default-sidebars.php:10
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/default-sidebars.php:12
+msgid "The default sidebar for general use."
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/default-sidebars.php:20
+msgid "Pages"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/default-sidebars.php:22
+msgid "Pages sidebar."
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/default-sidebars.php:30
+msgid "Posts (blog)"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/default-sidebars.php:32
+msgid "Blog and posts sidebar."
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/default-sidebars.php:42
+msgid "Search results page sidebar."
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/functions-template.php:36
+msgid "Post navigation"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/functions-template.php:77
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/functions-template.php:81
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/functions-template.php:106
+msgid "Pingback:"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/functions-template.php:121
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/functions-template.php:125
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/functions-template.php:128
+msgid "<span class=\"glyphicon glyphicon-edit\"></span> Edit"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/functions-template.php:133
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/hooks-filters.php:29
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/meta-boxes.php:57
+msgid "Layout Options"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/meta-boxes.php:77
+msgid "Page Title"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/meta-boxes.php:89
+msgid "Header Style"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/meta-boxes.php:123
+#: ../runway-framework/framework/core/admin-object.php:38
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:71
+msgid "Options"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/meta-boxes.php:232
+msgid "Sidebar Options"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/meta-boxes.php:252
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/meta-boxes.php:258
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/meta-boxes.php:263
+msgid ""
+"The template must support the sidebar location or it will have no effect."
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/meta-boxes.php:274
+msgid "Choose a sidebar"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:67
+msgid "Content Blocks"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:70
+msgid "Add New Content Block"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:71
+msgid "Edit Content Block"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:72
+msgid "New Content Block"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:73
+msgid "All Content Blocks"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:74
+msgid "View Content Block"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:76
+msgid "No content blocks found"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:77
+msgid "No content blocks found in Trash"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:217
+msgid "Content Options"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:223
+msgid "Content Filters"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:224
+msgid "Apply all WP content filters? This will include plugin added filters."
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:229
+msgid "Defaults (recommended)"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:230
+msgid "All Content Filters"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:234
+msgid "Auto Paragraphs"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:235
+msgid ""
+"Add &lt;p&gt; and &lt;br&gt; tags automatically.<br>(disabling may fix "
+"layout issues)"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:240
+msgid "On"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:241
+msgid "Off"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:353
+msgid "Displays the content from a Content Block. "
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:404
+msgid "Content Block:"
+msgstr ""
+
+#: ../runway-framework/extensions/theme-utilities/post-type-static-block.php:425
+msgid "Show title"
+msgstr ""
+
+#: ../runway-framework/framework/core/admin-object.php:538
+msgid "Someting has gone awry. Sorry."
+msgstr ""
+
+#: ../runway-framework/framework/core/admin-object.php:593
+msgid "Saved!"
+msgstr ""
+
+#: ../runway-framework/framework/core/admin-object.php:600
+msgid "Deleted!"
+msgstr ""
+
+#: ../runway-framework/framework/core/admin-object.php:1163
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: ../runway-framework/framework/includes/auth-manager/admin.php:25
+msgid "Your login/password is incorrect"
+msgstr ""
+
+#: ../runway-framework/framework/includes/auth-manager/admin.php:31
+msgid "Your login is successful"
+msgstr ""
+
+#: ../runway-framework/framework/includes/auth-manager/load.php:24
+msgid "Accounts"
+msgstr ""
+
+#: ../runway-framework/framework/includes/auth-manager/views/admin-home.php:4
+msgid "Username"
+msgstr ""
+
+#: ../runway-framework/framework/includes/auth-manager/views/admin-home.php:8
+msgid "Password"
+msgstr ""
+
+#: ../runway-framework/framework/includes/auth-manager/views/admin-home.php:12
+msgid "Log In"
+msgstr ""
+
+#: ../runway-framework/framework/includes/auth-manager/views/admin-home.php:18
+msgid "Sign out"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/admin.php:7
+msgid "Welcome to Runway"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/admin.php:15
+msgid ""
+"A better way to create WordPress themes. Runway is a powerful development "
+"environment for making awesome themes"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/admin.php:24
+msgid "Getting Started"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/admin.php:24
+msgid "Help"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/admin.php:24
+msgid "Support"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/admin.php:24
+msgid "Release Notes"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/admin.php:24
+msgid "Credits"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/load.php:26
+msgid "Dashboard"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/credits.php:2
+msgid ""
+"Runway wouldn't be possible without the support of the community. We value "
+"that community and believe in recognizing all those who help make it one of "
+"the best additions to the WordPress ecosystem."
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/credits.php:9
+msgid "Achievement count (from high to low)"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/credits.php:10
+msgid "Achievement count (from low to high)"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/credits.php:11
+msgid "Name (A-Z)"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/credits.php:12
+msgid "Name (Z-A)"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/credits.php:21
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:36
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:126
+msgid "items"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:6
+msgid "Creating a Theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:10
+msgid "1. Make a New Child Theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:11
+msgid ""
+"Runway was built for creating WordPress themes. The first step is a new "
+"child theme. Go to"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:11
+#: ../runway-framework/framework/includes/options-builder/admin.php:7
+#: ../runway-framework/framework/includes/themes-manager/load.php:26
+msgid "Runway Themes"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:11
+msgid "and click"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:11
+#: ../runway-framework/framework/includes/themes-manager/load.php:70
+msgid "New Theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:11
+msgid "Fill in the details and Runway will create the new child theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:12
+msgid "2. Design Your Theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:13
+msgid ""
+"You can upload files to your child theme by going to the default themes "
+"directory"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:13
+msgid "in your WordPress install"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:14
+msgid "3. Create Options Pages"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:15
+msgid "Setup theme options and admin pages using the"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:15
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:28
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:31
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:57
+#: ../runway-framework/framework/includes/options-builder/load.php:39
+msgid "Options Builder"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:16
+msgid "4. Download and Distribute"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:17
+msgid ""
+"Distribute as child or standalone installs. Child themes require Runway, "
+"standalone themes don't and install directly on WordPress"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:30
+msgid "Admin Pages"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:31
+msgid "Create theme options directly in the admin using the"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:31
+msgid ""
+"This generates admin pages directly in your theme's admin menu. The new "
+"admin pages can be populated with inputs selected by you from the Options "
+"Builder interface"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:56
+msgid "Options Pages"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:57
+msgid "Add theme options and custom inputs to admin pages using the"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:57
+msgid "Input types include:"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:57
+#: ../runway-framework/framework/libs/formsbuilder/templates/field-settings-form.php:57
+msgid "Text input"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:57
+msgid "Rich text editor (WYSIWYG)"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:57
+msgid "Checkbox and multi-checkbox"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:57
+msgid "Select drop down and multi-select"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:57
+msgid "Upload"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:57
+msgid "Date picker"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:57
+msgid "Color picker"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:58
+msgid "Custom Inputs"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:59
+msgid ""
+"You can make custom inputs (data types) for your themes. Add your custom "
+"inputs to the \"data-types\" folder and they will be instantly available for "
+"use in the Options Builder"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:60
+msgid "Organized Options"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/getting-started.php:61
+msgid ""
+"Group the content of admin pages with containers or split the fields across "
+"tabs"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/introduction.php:12
+msgid "Build Themes"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/introduction.php:13
+msgid ""
+"Making themes is what Runway is about. Create new child themes, custom "
+"designs or download a Runway child theme."
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/introduction.php:15
+msgid "Create a new Runway child theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/introduction.php:16
+msgid "Activate an existing Runway theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/introduction.php:17
+msgid "Search for more themes"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/introduction.php:22
+msgid "Extend and Enhance"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/introduction.php:23
+msgid ""
+"Extensions quickly add features to your theme, like a plugin integrated with "
+"the theme for easy distribution."
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/introduction.php:25
+msgid "Activate Extensions"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/introduction.php:26
+msgid "Browse the directory"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/introduction.php:27
+msgid "Search all Extensions"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/introduction.php:31
+msgid "Customize the Admin"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/introduction.php:32
+msgid ""
+"Create options pages, admin menus and much more. The Options Builder "
+"interface allows you to create theme options."
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/introduction.php:34
+msgid "Add theme options pages"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/introduction.php:35
+msgid "Manage admin menus"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/release-notes.php:5
+#: ../runway-framework/framework/includes/dashboard/views/release-notes.php:11
+#: ../runway-framework/framework/includes/dashboard/views/release-notes.php:17
+#: ../runway-framework/framework/includes/dashboard/views/release-notes.php:23
+msgid "Release"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/release-notes.php:7
+msgid "Version 1.2"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/release-notes.php:13
+msgid "Version 1.1.1"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/release-notes.php:19
+msgid "Version 1.1"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/release-notes.php:25
+msgid "Version 1.0.1"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/release-notes.php:29
+msgid "Initial Release"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/release-notes.php:31
+msgid "Version 1.0"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/release-notes.php:32
+msgid "Initial release version."
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/release-notes.php:36
+msgid "Beta 1"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/release-notes.php:38
+msgid "Version 0.1"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/release-notes.php:39
+msgid "Core functionality created"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/support.php:2
+#: ../runway-framework/framework/includes/dashboard/views/support.php:8
+msgid "Support Forums"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/support.php:9
+msgid ""
+"Active support forums are maintained on the Runway website for developers, "
+"community members and users to help each other."
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/support.php:10
+msgid "Runway Support Forums"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/support.php:14
+msgid "GitHub"
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/support.php:15
+msgid ""
+"As an open source project everyone can contribute to Runway. You can submit "
+"issues, suggest features and more from the GitHub project."
+msgstr ""
+
+#: ../runway-framework/framework/includes/dashboard/views/support.php:16
+msgid "Runway Framework on Github"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/admin.php:78
+msgid "Theme has been downloaded"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/load.php:28
+msgid "Add-ons"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/load.php:74
+#: ../runway-framework/framework/includes/download-directory/load.php:75
+#: ../runway-framework/framework/includes/download-directory/load.php:82
+#: ../runway-framework/framework/includes/download-directory/load.php:83
+msgid "Downloads directory"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/settings-object.php:100
+msgid "File <b>"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/settings-object.php:100
+msgid "not found on server"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/views/add-ons.php:79
+msgid "Themes"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/views/add-ons.php:87
+msgid "Search "
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/views/add-ons.php:123
+msgid "Install child theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/views/add-ons.php:126
+msgid "Install standalone theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/views/add-ons.php:130
+msgid "Download full theme package"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/views/add-ons.php:137
+#: ../runway-framework/framework/includes/download-directory/views/add-ons.php:157
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:94
+msgid "Details"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/views/add-ons.php:144
+msgid "Installed"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:18
+msgid ""
+"You can search and install Extensions in this area. Adding new Extensions "
+"will allow you to enhance the functionality of your theme."
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:22
+msgid "Browse"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:31
+#: ../runway-framework/framework/includes/extensions-manager/load.php:52
+msgid "Search Directory"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:40
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:44
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:130
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:134
+msgid "Go to the first page"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:41
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:45
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:131
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:135
+msgid "Go to the previous page"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:52
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:142
+msgid "Current page"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:57
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:61
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:147
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:151
+msgid "Go to the next page"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:58
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:62
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:148
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:152
+msgid "Go to the last page"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:94
+msgid "More information"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:95
+#: ../runway-framework/framework/includes/download-directory/views/browse.php:96
+#: ../runway-framework/framework/includes/download-directory/views/search.php:18
+#: ../runway-framework/framework/includes/download-directory/views/search.php:19
+msgid "Reinstall"
+msgstr ""
+
+#: ../runway-framework/framework/includes/download-directory/views/error-msg.php:3
+msgid "Unknown"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:13
+msgid "NOTIFICATION"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:13
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:44
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:57
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:110
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:193
+msgid "You must have write permissions for"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:14
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:45
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:58
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:111
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:194
+msgid "All your actions not be saved"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:44
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:57
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:110
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:193
+#: ../runway-framework/framework/includes/extensions-manager/settings-object.php:534
+msgid "ERROR"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:70
+msgid "Extension dir must be writable to add new extension"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:75
+msgid "Sorry, your nonce did not verify"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:88
+msgid "File must have"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:88
+msgid "extension Please choose another file"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:154
+msgid ""
+"extensions not activate. To activate this extension you must activate next "
+"extensions"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:163
+#: ../runway-framework/framework/includes/extensions-manager/settings-object.php:322
+msgid "Activate dependencies and selected extensions"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/admin.php:188
+msgid "Please, select the action"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/load.php:52
+#: ../runway-framework/framework/includes/extensions-manager/views/add-extension.php:5
+msgid "Upload New"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/load.php:67
+#: ../runway-framework/framework/includes/extensions-manager/load.php:68
+#: ../runway-framework/framework/includes/extensions-manager/load.php:75
+#: ../runway-framework/framework/includes/extensions-manager/load.php:76
+msgid "Extensions directory"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/load.php:67
+msgid "exists"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/load.php:68
+msgid "does not exist"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/settings-object.php:233
+msgid "Extension deactivated"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/settings-object.php:258
+msgid "activated"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/settings-object.php:288
+msgid "Extension activate"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/settings-object.php:290
+msgid ""
+"extension not activate. To activate this extension you must activate next "
+"extensions"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/settings-object.php:461
+msgid "Extension was deleted"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/settings-object.php:511
+#: ../runway-framework/framework/includes/extensions-manager/settings-object.php:523
+#: ../runway-framework/framework/includes/extensions-manager/settings-object.php:556
+msgid "Install error"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/settings-object.php:520
+msgid "has been installed. Do you want to activate it? "
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/settings-object.php:520
+msgid "Activate it"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/settings-object.php:528
+msgid "Extensions directory must be writable"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/settings-object.php:548
+msgid "Extension has already installed"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/settings-object.php:553
+msgid "The extension"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/settings-object.php:553
+msgid "installed successfully. Would you like to"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/settings-object.php:553
+msgid "activate it now"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/views/add-extension.php:16
+msgid "Install a extension in .zip format"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/views/add-extension.php:17
+msgid ""
+"If you have a extension in a .zip format, you may install it by uploading it "
+"here."
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:22
+#: ../runway-framework/framework/translations-js.php:43
+msgid "All"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:23
+msgid "Inactive"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:27
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:29
+msgid "Search Extensions"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:35
+msgid "Bulk Actions"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:37
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:68
+msgid "Deactivate"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:79
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:81
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:891
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:156
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:196
+msgid "By"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:85
+msgid "By Unknown"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:96
+msgid "Dependencies"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:118
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:158
+msgid "Active"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/views/admin-home.php:119
+msgid "Disabled"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/views/del-extension-confirmation.php:1
+msgid "You are about to remove the following extension from server"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/views/del-extension-confirmation.php:4
+#: ../runway-framework/framework/includes/themes-manager/views/del-theme-confirmation.php:4
+msgid "by"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/views/del-extension-confirmation.php:7
+#: ../runway-framework/framework/includes/themes-manager/views/del-theme-confirmation.php:7
+msgid "Are you sure you wish to delete these files"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/views/del-extension-confirmation.php:8
+#: ../runway-framework/framework/includes/themes-manager/views/del-package-confirmation.php:9
+#: ../runway-framework/framework/includes/themes-manager/views/del-packages-confirmation-all.php:9
+#: ../runway-framework/framework/includes/themes-manager/views/del-theme-confirmation.php:8
+msgid "Yes, Delete these files"
+msgstr ""
+
+#: ../runway-framework/framework/includes/extensions-manager/views/del-extension-confirmation.php:9
+#: ../runway-framework/framework/includes/themes-manager/views/del-package-confirmation.php:10
+#: ../runway-framework/framework/includes/themes-manager/views/del-packages-confirmation-all.php:10
+#: ../runway-framework/framework/includes/themes-manager/views/del-theme-confirmation.php:9
+msgid "No, Return me to the theme list"
+msgstr ""
+
+#: ../runway-framework/framework/includes/load-functions.php:1025
+msgid "We noticed this theme was previously named"
+msgstr ""
+
+#: ../runway-framework/framework/includes/load-functions.php:1025
+msgid "but is now named"
+msgstr ""
+
+#: ../runway-framework/framework/includes/load-functions.php:1026
+msgid ""
+"If this is a new theme you should create a new unique ID for the data file "
+"to avoid any data collisions"
+msgstr ""
+
+#: ../runway-framework/framework/includes/load-functions.php:1027
+msgid ""
+"If this is the same theme and you are just renaming it, you should keep this "
+"ID the same"
+msgstr ""
+
+#: ../runway-framework/framework/includes/load-functions.php:1028
+msgid "Do you want to create a new ID now?"
+msgstr ""
+
+#: ../runway-framework/framework/includes/load-functions.php:1030
+msgid "No"
+msgstr ""
+
+#: ../runway-framework/framework/includes/load-functions.php:1057
+msgid "Unknown Theme (Theme Name in style.css is empty)"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/admin.php:7
+msgid "You must create or activate a Runway child theme to add options pages"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/admin.php:20
+msgid "New Options Page"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/admin.php:104
+msgid "copy"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/fields/classes/input.php:11
+msgid "Post image width"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/fields/classes/input.php:12
+#: ../runway-framework/framework/includes/options-builder/fields/classes/input.php:16
+msgid ""
+"The default post image width. This can also be set from the blog shortcode "
+"or in a single post"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/fields/field.php:46
+msgid "This is empty field"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/load.php:78
+#: ../runway-framework/framework/includes/options-builder/views/page-builder.php:8
+msgid "New Admin Page"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/load.php:92
+#: ../runway-framework/framework/includes/options-builder/load.php:93
+#: ../runway-framework/framework/includes/options-builder/load.php:100
+#: ../runway-framework/framework/includes/options-builder/load.php:101
+msgid "Pages dir"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/settings-object.php:162
+msgid "I can not save icon"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/settings-object.php:181
+msgid "Unsupported file type"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/settings-object.php:201
+msgid "Page saved."
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/settings-object.php:203
+msgid "Saving error"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/settings-object.php:203
+msgid "must be a writable directory"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/settings-object.php:225
+msgid "The page has not changed."
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/settings-object.php:306
+msgid "Error"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/settings-object.php:306
+msgid ""
+"\"data\" and it's sub-folder \"pages\" must both exists and be writable. "
+"Please check these folders and their permissions in your child theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:7
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:62
+msgid "Page name"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:11
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:66
+msgid "Order"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:32
+msgid "Edit this item"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:34
+msgid "View this page"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:35
+#: ../runway-framework/framework/translations-js.php:44
+msgid "View"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:36
+msgid "Duplicate this item"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:37
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:942
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:93
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:165
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:233
+#: ../runway-framework/framework/libs/formsbuilder/templates/base-fields.php:28
+#: ../runway-framework/framework/libs/formsbuilder/templates/base-fields.php:48
+#: ../runway-framework/framework/translations-js.php:50
+msgid "Duplicate"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:40
+msgid ""
+"Reset default field values. This will clear any data added while testing the "
+"page."
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:40
+#: ../runway-framework/framework/includes/options-page-render/load.php:84
+msgid "Reset Defaults"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:41
+msgid "Delete this item"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:72
+msgid "No pages have been created."
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/views/list-pages.php:75
+msgid "Create new admin page"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-builder/views/page-builder.php:11
+msgid "Edit: "
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-page-render/load.php:79
+msgid "Edit this page"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-page-render/load.php:79
+msgid "Edit Page"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-page-render/load.php:84
+msgid ""
+"This will delete all saved settings on this page.\\nAre you sure you want to "
+"to continue?"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-page-render/load.php:84
+msgid "Reset all fields to defaults values."
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-page-render/load.php:87
+msgid "Show or hide the developer information."
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-page-render/load.php:87
+msgid "Toggle Developer Info"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-page-render/load.php:89
+msgid "Developer Functions"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-page-render/load.php:89
+msgid "Show PHP references used to output options in theme files"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-page-render/settings-object.php:37
+msgid "may be url"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-page-render/settings-object.php:38
+msgid "may be email"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-page-render/settings-object.php:39
+msgid "may be only letters"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-page-render/settings-object.php:40
+msgid "may be only letters or digits"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-page-render/settings-object.php:41
+msgid "may be only digits"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-page-render/settings-object.php:43
+msgid "is required"
+msgstr ""
+
+#: ../runway-framework/framework/includes/options-page-render/settings-object.php:235
+msgid "Validation error"
+msgstr ""
+
+#: ../runway-framework/framework/includes/report-manager/admin.php:27
+msgid "No assigned reports!"
+msgstr ""
+
+#: ../runway-framework/framework/includes/report-manager/load.php:24
+msgid "Reports"
+msgstr ""
+
+#: ../runway-framework/framework/includes/report-manager/load.php:51
+msgid "Fix all issues"
+msgstr ""
+
+#: ../runway-framework/framework/includes/report-manager/settings-object.php:65
+msgid "You have "
+msgstr ""
+
+#: ../runway-framework/framework/includes/report-manager/settings-object.php:70
+msgid ""
+"A Runway child theme has not been activated. You can create or activate one "
+"from the <a href=\""
+msgstr ""
+
+#: ../runway-framework/framework/includes/report-manager/settings-object.php:85
+msgid "Your PHP version is good! You are running version"
+msgstr ""
+
+#: ../runway-framework/framework/includes/report-manager/settings-object.php:86
+msgid "Your PHP version is"
+msgstr ""
+
+#: ../runway-framework/framework/includes/report-manager/settings-object.php:86
+msgid "Your PHP version id is"
+msgstr ""
+
+#: ../runway-framework/framework/includes/report-manager/settings-object.php:86
+msgid "You must have PHP version"
+msgstr ""
+
+#: ../runway-framework/framework/includes/report-manager/settings-object.php:86
+msgid "or later"
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/admin.php:10
+#, php-format
+msgid "Please sign in to your %sParallelus Account%s."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/admin.php:13
+#, php-format
+msgid "You can check for new versions from the %sUpdates%s area of your admin."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:12
+#, php-format
+msgid "Updating Extension %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:26
+msgid "Go to themes page"
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:26
+msgid "Return to Themes page"
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:27
+msgid "Go to WordPress Updates page"
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:27
+msgid "Return to WordPress Updates"
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:44
+msgid "The extension is at the latest version."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:45
+msgid "Update package not available."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:46
+#, php-format
+msgid "Downloading update from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:47
+msgid "Unpacking the update&#8230;"
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:48
+msgid "Removing the old version of the extension&#8230;"
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:49
+msgid "Could not remove the old extension."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:50
+msgid "Extension update failed."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:51
+msgid "Extension updated successfully."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:58
+msgid "Installing the extension&#8230;"
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:59
+msgid "The extension contains no files."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:60
+msgid "Extension install failed."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:61
+msgid "Extension installed successfully."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:63
+#, php-format
+msgid "Successfully installed the extension <strong>%1$s %2$s</strong>."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:64
+msgid ""
+"This extension requires a parent extension. Checking if it is "
+"installed&#8230;"
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:66
+#, php-format
+msgid "Preparing to install <strong>%1$s %2$s</strong>&#8230;"
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:68
+#, php-format
+msgid ""
+"The parent extension, <strong>%1$s %2$s</strong>, is currently installed."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:70
+#, php-format
+msgid ""
+"Successfully installed the parent extension, <strong>%1$s %2$s</strong>."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/extension_upgrader.php:71
+#, php-format
+msgid ""
+"<strong>The parent extension could not be found.</strong> You will need to "
+"install the parent extension, <strong>%s</strong>, before you can use this "
+"child extension."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/load.php:19
+msgid "Theme Updater"
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/settings-object.php:359
+msgid "Executing upgrader_source_selection_filter function..."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/settings-object.php:363
+msgid "Renamed theme folder successfully."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/settings-object.php:366
+msgid "**Unable to rename downloaded theme."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/settings-object.php:371
+msgid "**Source or Remote Source is unavailable."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/settings-object.php:416
+msgid "You do not have sufficient permissions to update this site."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/settings-object.php:432
+msgid "Update Extension"
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/settings-object.php:436
+msgid "Update Extensions"
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/settings-object.php:445
+msgid ""
+"You do not have sufficient permissions to update extensions for this site."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/settings-object.php:482
+msgid "Runway Extensions"
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/settings-object.php:483
+msgid "Your extensions are all up to date."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/settings-object.php:491
+msgid ""
+"The following extensdions have new versions available. Check the ones you "
+"want to update and then click &#8220;Update Extensions&#8221;."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/settings-object.php:492
+msgid ""
+"<strong>Please Note:</strong> Any customizations you have made to extension "
+"files will be lost."
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/settings-object.php:501
+#: ../runway-framework/framework/includes/theme-updater/settings-object.php:508
+msgid "Select All"
+msgstr ""
+
+#: ../runway-framework/framework/includes/theme-updater/settings-object.php:517
+#, php-format
+msgid "You have version %1$s installed. Update to %2$s."
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:120
+msgid "Theme title is required"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:123
+msgid "Theme title need to have at least one character"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:133
+msgid "Please choose another theme folder"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:592
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:668
+msgid "Please set write permissions for"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:592
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:668
+msgid "and then refresh page"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:641
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:738
+msgid "You must have ZipArchive class"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:882
+msgid "No theme name"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:938
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:222
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:349
+msgid "Preview"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:946
+msgid "Packages &amp; Downloads"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:948
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:134
+msgid "History"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/settings-object.php:960
+msgid "Folder location:"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/del-package-confirmation.php:1
+#: ../runway-framework/framework/includes/themes-manager/views/del-packages-confirmation-all.php:1
+msgid "You are about to remove the following packages from server"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/del-package-confirmation.php:4
+msgid "Standalone package from"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/del-package-confirmation.php:5
+msgid "Child package from"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/del-package-confirmation.php:8
+#: ../runway-framework/framework/includes/themes-manager/views/del-packages-confirmation-all.php:8
+msgid "Are you sure you wish to delete these files?"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/del-packages-confirmation-all.php:4
+msgid "All Standalone packages"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/del-packages-confirmation-all.php:5
+msgid "All Child packages"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/del-theme-confirmation.php:1
+msgid "You are about to remove the following theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:32
+msgid "New download package created"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:50
+msgid "Most Recent"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:55
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:100
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:139
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:211
+msgid "Date"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:56
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:101
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:140
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:212
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:168
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:239
+msgid "Standalone Theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:57
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:102
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:141
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:213
+msgid "Child Theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:58
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:103
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:142
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:214
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:131
+msgid "Tags"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:69
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:81
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:174
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:183
+msgid "Download"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:70
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:82
+msgid "Checksum"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:75
+msgid "Not found"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:111
+msgid "Rebuild Download Packages"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:118
+msgid "Add tags to this package? (optional)"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:123
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:197
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:52
+#: ../runway-framework/framework/translations-js.php:48
+msgid "Update"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:154
+msgid "Have no packages to download"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:177
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:186
+msgid "Package Not Found"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/download.php:222
+msgid "Delete All Old Download Packages"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:28
+msgid "Edit Theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:29
+msgid "Create new"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:36
+msgid ""
+"Fill out the options below to create a new Runway child theme. The new child "
+"theme folder will be created in the"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:36
+msgid "folder"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:62
+msgid "Menu icon"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:66
+msgid "Default WordPress Icon"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:67
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:85
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:98
+msgid "Custom icon"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:91
+msgid "Choose Another Icon"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:93
+msgid "Choose Custom Icon"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:101
+msgid "Recommended size 36x36px for HiDPI screens. Icon displayed at 16x16px."
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:105
+msgid "An optional webpage associated with the theme."
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:107
+msgid "Theme URI"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:113
+msgid "Author name"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:116
+msgid "An optional link to the author's website."
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:129
+msgid "Keywords and template tags associated with this theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:134
+msgid "Optional notes to leave in the style.css file."
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:136
+msgid "Comments"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:141
+msgid "Screenshot"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:145
+msgid "View Screenshot"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:148
+msgid "Recommended size: 600&#215;450 for HiDPI. Displayed at 300&#215;225."
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:168
+msgid "Select the folder name for the theme."
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:170
+msgid "Folder name"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:173
+msgid "Optional. Specify a license for the theme."
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:175
+msgid "License"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:178
+msgid "An optional link to the license details."
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:180
+msgid "License URI"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:183
+msgid "Google Web Fonts Developer API Key"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:185
+msgid "Google API Key"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/theme-conf.php:197
+msgid "Create Theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:4
+msgid "Activate new theme?"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:12
+msgid "Welcome to Runway!"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:12
+msgid ""
+"We recommend using Runway with an active child theme. Would you like to "
+"automatically activate the default child theme?"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:27
+msgid "Enable default theme for a network"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:30
+msgid "Enable"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:87
+msgid "Enter a new folder name:"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:99
+msgid "Loading..."
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:113
+msgid ""
+"A child theme can be run on any WordPress install with the Runway framework "
+"active. You can use Runway to setup custom theme options, menus and many "
+"other features of a child theme. Completed themes can be downloaded as a "
+"child or standalone version. A standalone theme may be installed on any "
+"WordPress install regardless of having Runway active"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:132
+msgid ""
+"Are you sure you want to delete this theme?\n"
+"\n"
+"Click 'Cancel' to go back, 'OK' to confirm the delete."
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:136
+msgid "Add New Theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:137
+msgid "Search Installed Themes"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:138
+msgid "Search installed themes..."
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:155
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:195
+msgid "Theme Details"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:213
+msgid "Network Enable"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:251
+msgid "Create New Theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:261
+msgid "Other Runway Themes"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:261
+msgid "More Themes"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:288
+msgid "Find More Themes"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:302
+msgid "Show previous theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:303
+msgid "Show next theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:304
+msgid "Close overlay"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:317
+msgid "Current Theme"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:319
+#, php-format
+msgid "Version: %s"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:320
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:324
+msgid "Update Available"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:331
+#, php-format
+msgid "This is a child theme of %s."
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:335
+msgid "Tags:"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:342
+msgid "Customize"
+msgstr ""
+
+#: ../runway-framework/framework/includes/themes-manager/views/themes-list.php:348
+msgid "Live Preview"
+msgstr ""
+
+#: ../runway-framework/framework/libs/FormsBuilder.php:136
+msgid "Error: data types"
+msgstr ""
+
+#: ../runway-framework/framework/libs/Html.php:317
+msgid "Apply Color"
+msgstr ""
+
+#: ../runway-framework/framework/libs/Html.php:394
+msgid ""
+"Permalinks are currently not enabled! To use this feature, enable permalinks "
+"in the <a href=\"options-permalink.php\">Permalink Settings</a>."
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:35
+msgid "New element added"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:38
+msgid "New element duplicated"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:56
+msgid "Enter title here"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:60
+msgid "Alias:"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:60
+msgid "Click to edit the page alias."
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:60
+msgid "Make slug from title"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:60
+msgid "Ok"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:60
+msgid "Reset"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:71
+msgid "Settings"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:71
+msgid "Help tabs"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:81
+msgid "Tab"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:84
+msgid "Container"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:87
+msgid "Field"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:90
+msgid "Drag or click to add elements to the page below."
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:93
+msgid "Collapse all"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/builderview.php:112
+msgid "Page settings"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/render-form.php:84
+#: ../runway-framework/framework/libs/formsbuilder/templates/base-fields.php:6
+#: ../runway-framework/framework/libs/formsbuilder/templates/base-fields.php:25
+#: ../runway-framework/framework/libs/formsbuilder/templates/base-fields.php:45
+msgid "Click to toggle"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/container-settings-form.php:9
+msgid "Container title"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/container-settings-form.php:22
+msgid "Container type"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/container-settings-form.php:27
+msgid "Visible"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/container-settings-form.php:28
+msgid "Invisible"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/container-settings-form.php:29
+msgid "Show / hide"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/container-settings-form.php:39
+msgid "Theme customizer"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/container-settings-form.php:52
+msgid "Include this section in the Theme Customizer options panel."
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/field-settings-form.php:22
+msgid "Title caption"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/field-settings-form.php:49
+msgid "Field type"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/field-settings-form.php:56
+msgid "Hidden"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/field-settings-form.php:59
+msgid "Checkbox"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/field-settings-form.php:60
+msgid "Checkbox boolean"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/field-settings-form.php:62
+msgid "Image radio buttons"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/field-settings-form.php:68
+msgid "Blog editor"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/field-settings-form.php:86
+msgid "Field caption"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/page-settings.php:7
+msgid "Page Display and Access Options"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/page-settings.php:12
+msgid "Show page title"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/page-settings.php:24
+msgid ""
+"Removing the title can produce a nice result on pages with multiple tabs."
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/page-settings.php:29
+msgid "Access level"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/page-settings.php:30
+msgid "Permissions"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/page-settings.php:82
+msgid "Set the access permissions needed to view and edit the page."
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/page-settings.php:87
+msgid "Parent menu"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/page-settings.php:102
+msgid "Select the menu where this page should be added."
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/page-settings.php:107
+msgid "Menu Order"
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/page-settings.php:111
+msgid "Position of the current page in the Option Builder list."
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/page-settings.php:120
+msgid ""
+"An optional description or help text. This will appear at the top of the "
+"page."
+msgstr ""
+
+#: ../runway-framework/framework/libs/formsbuilder/templates/tab-settings-form.php:9
+msgid "Tab title"
+msgstr ""
+
+#: ../runway-framework/framework/load.php:180
+msgid "Localization directory not exists or empty. Textdomain hasn't loaded."
+msgstr ""
+
+#: ../runway-framework/framework/load.php:204
+msgid "Start Here"
+msgstr ""
+
+#: ../runway-framework/framework/load.php:204
+msgid ""
+"Visit the dashboard and learn how Runway works to start making awesome "
+"themes today."
+msgstr ""
+
+#: ../runway-framework/framework/load.php:216
+msgid "You must have PHP v5.3.1 or later to use this theme."
+msgstr ""
+
+#: ../runway-framework/framework/load.php:217
+msgid ""
+"You can try adding the following to the top of to your .htaccess file in the "
+"WordPress root directory"
+msgstr ""
+
+#: ../runway-framework/framework/load.php:219
+msgid ""
+"If that does not work, contact your host and ask them to update your PHP "
+"version. The theme will not be functional until this issue is corrected."
+msgstr ""
+
+#: ../runway-framework/framework/templates/delete-confirmation.php:3
+msgid "You are about to remove the following"
+msgstr ""
+
+#: ../runway-framework/framework/templates/delete-confirmation.php:7
+msgid "Are you sure you want to delete this"
+msgstr ""
+
+#: ../runway-framework/framework/templates/delete-confirmation.php:9
+msgid "Yes, Delete this"
+msgstr ""
+
+#: ../runway-framework/framework/templates/delete-confirmation.php:12
+msgid "No, Return me to the"
+msgstr ""
+
+#: ../runway-framework/framework/templates/delete-confirmation.php:12
+msgid "list"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:5
+msgid "Edit Field"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:6
+msgid "Edit Container"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:7
+msgid "Edit Tab"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:8
+msgid "Edit Item"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:9
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:10
+msgid "Edit connection"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:11
+msgid "New Field"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:12
+msgid "New Container"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:13
+msgid "New Tab"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:14
+msgid "Add New Item"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:15
+msgid "Add new custom field"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:16
+msgid "Field id: "
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:17
+msgid "Field title: "
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:18
+msgid "Field title caption: "
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:19
+msgid "Field alias: "
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:20
+msgid "Field type: "
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:21
+msgid "Field caption: "
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:22
+msgid "Field values: "
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:23
+msgid "Required: "
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:24
+msgid "Validation: "
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:25
+msgid "Validation message: "
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:26
+msgid "Field required message: "
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:27
+msgid "Field custom css class: "
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:28
+msgid "Month changer enabled"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:29
+msgid "Year changer enabled"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:31
+msgid "Radio button image size:"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:33
+msgid "Default values"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:35
+msgid "Item deleted"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:36
+msgid "Item restored"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:37
+msgid "Undo"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:38
+msgid "Type with this alias"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:39
+msgid "already exists"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:40
+msgid "will be added"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:41
+msgid "Title must be set before saving!"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:42
+msgid "Gallery Post Format"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:46
+msgid "Add"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:49
+msgid "Parent"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:51
+msgid "Create Duplicate Layout Title"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:52
+msgid "Add Row"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:53
+msgid "Add Column"
+msgstr ""
+
+#: ../runway-framework/framework/translations-js.php:54
+msgid "Add Cell"
+msgstr ""
+
+#: ../runway-framework/index.php:28
+#, php-format
+msgid "Please activate a Runway %1$schild theme%2$s."
+msgstr ""
+
+#: ../runway-framework/index.php:32
+msgid ""
+"Time to start adding theme files and options to your child theme!"
+"<br><br>You're seeing this message because you have not yet added any "
+"default theme<br> files to your new child theme, such as index.php, single."
+"php, archive.php, etc."
+msgstr ""

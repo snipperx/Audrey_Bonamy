@@ -1,0 +1,108 @@
+/*
+Theme Name: FrontRunner
+Theme URI: http://runwaywp.com
+Description: A theme to build political websites. Created with the Runway framework for WordPress.
+Author: Parallelus
+Author URI: http://para.llel.us/
+Version: 1.0.23
+Tags: responsive-layout custom-menu featured-images theme-options threaded-comments translation-ready
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.alignleft { display: inline; float: left; margin-right: 1.5em; }
+.alignright { display: inline; float: right; margin-left: 1.5em; }
+.aligncenter { clear: both; display: block; margin: 0 auto; }
+
+.gallery-caption {}
+
+img[class*="wp-image-"] { margin-top: 1rem; margin-bottom: 1rem; }
+.wp-caption { }
+.wp-caption.aligncenter { margin-bottom: 1rem; }
+.wp-caption img[class*="wp-image-"] { }
+.wp-caption .wp-caption-text { }
+.gallery { margin-bottom: 1.5em; }
+.gallery a img { border: none; height: auto; max-width: 90%; }
+.gallery dd { margin: 0; }
+
+@media (max-width: 600px) {
+	img.alignleft, img.alignright, .wp-caption.alignleft, .wp-caption.alignright { clear: both; display: block; float: none; margin-left: auto; margin-right: auto; }
+	.wp-caption img { width: 100%; }
+}
+
+embed, iframe, object { max-width: 100%; }
+
+.screen-reader-text { clip: rect(1px, 1px, 1px, 1px); position: absolute !important; }
+.screen-reader-text:hover,
+.screen-reader-text:active,
+.screen-reader-text:focus { background-color: #f1f1f1; border-radius: 3px; box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6); clip: auto !important; color: #21759b; display: block; font-size: 14px; font-weight: bold; height: auto; left: 5px; line-height: normal; padding: 15px 23px 14px; text-decoration: none; top: 5px; width: auto; z-index: 100000; }
+
+
+
+.hentry {  }
+article.post.sticky .page-header h1 a {  }
+
+
+.bypostauthor { }
+.edit-link a { padding: 1rem 2rem; background: #f0f1f2; border-radius: 3px; line-height: 1; font-size: 14px; font-weight: bold; text-decoration: none; }
+
+.form-allowed-tags-wrapper { display: none; }
+
+
+.widget { margin-bottom: 2em; }
+.widget_nav_menu ul.sub-menu li, .widget_pages ul.children li { padding-left: 15px; }
+.widget_search .search-form input[type="submit"] { display: none; }
+.widget_search .search-form .form-group,
+.widget_search .search-form .search-field { width: 100% }
+.widget select { max-width: 100%; }
+
+
+.widget_calendar {float: left;}
+#wp-calendar {width: 100%; }
+#wp-calendar caption { margin-top: 10px; margin-bottom: 15px; }
+#wp-calendar thead { font-size: 10px; }
+#wp-calendar thead th { padding-bottom: 5px; padding-top: 5px; background: #e5e5e5; text-align: center; }
+#wp-calendar thead th:first-child { border-left: 1px solid #fff; }
+#wp-calendar tbody { color: #aaa; }
+#wp-calendar tbody td { background: #f5f5f5; border: 1px solid #fff; text-align: center; padding:8px;}
+#wp-calendar tbody td:hover { background: #fff; }
+#wp-calendar tbody td.pad, #wp-calendar tbody td.pad:hover { background: #ededed; }
+#wp-calendar tfoot #next { font-size: 10px; text-transform: uppercase; text-align: right; }
+#wp-calendar tfoot #prev { font-size: 10px; text-transform: uppercase; padding-top: 10px; }
+
+
+.admin-bar .navbar-wrapper .navbar-fixed-top {
+	margin-top: 32px;
+}
+@media (max-width: 1199px) {
+	.admin-bar .navbar-wrapper .navbar-vertical {
+		top: 32px !important;
+	}
+}
+@media (max-width: 782px) {
+	.admin-bar .navbar-wrapper .navbar-fixed-top {
+		margin-top: -65px !important;
+	}
+	.admin-bar .header-bg-wrapper .header-inner {
+		vertical-align: top;
+	}
+	.admin-bar .header-bg-wrapper .header-inner .navbar-wrapper .navbar-fixed-top {
+		position: absolute;
+		top: 0;
+		margin-top: -64px !important;
+	}
+	.admin-bar .navbar-wrapper.do-transition {
+		width: 100%;
+		position: absolute;
+		left: 0;
+		top: -64px;
+	}
+	.admin-bar .navbar-wrapper .navbar-vertical {
+		position: static;
+	}
+}
+@media (max-width: 600px) {
+	.admin-bar .navbar-wrapper .navbar-fixed-top {
+		position: absolute;
+	}
+}

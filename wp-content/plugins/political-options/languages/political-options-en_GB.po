@@ -1,0 +1,667 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Political Options Plugin 1.0\n"
+"POT-Creation-Date: 2016-03-30 18:44+0100\n"
+"PO-Revision-Date: 2016-03-30 18:51+0100\n"
+"Language-Team: Parallelus\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;_n;__ngettext_noop;_n_noop;_x;_nx;"
+"_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;"
+"esc_html_x;_c;_nc\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_GB\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../common-functions.php:218
+msgid "Donate To The Campaign"
+msgstr ""
+
+#: ../common-functions.php:221
+msgid "Donate"
+msgstr ""
+
+#: ../ninja-forms-settings.php:228
+msgid "- None"
+msgstr ""
+
+#: ../ninja-forms-settings.php:245
+msgid "Paypal Options"
+msgstr "PayPal Options"
+
+#: ../ninja-forms-settings.php:255
+msgid "Enable PayPal"
+msgstr ""
+
+#: ../ninja-forms-settings.php:278
+msgid "Business Email"
+msgstr ""
+
+#: ../ninja-forms-settings.php:286
+msgid "Currency Type"
+msgstr ""
+
+#: ../ninja-forms-settings.php:289 ../political-options.php:946
+msgid "The currency symbol to be used."
+msgstr ""
+
+#: ../ninja-forms-settings.php:294
+msgid "Transaction Description"
+msgstr ""
+
+#: ../ninja-forms-settings.php:295
+msgid ""
+"This will show in Paypal as the item name for which you are taking payment."
+"You can use hidden field in form and set that field here"
+msgstr ""
+"This will show in PayPal as the item name for which you are taking payment. "
+"You can use hidden field in form and set that field here"
+
+#: ../ninja-forms-settings.php:301 ../political-options.php:1074
+msgid "Transaction Type"
+msgstr ""
+
+#: ../ninja-forms-settings.php:317
+msgid "Amount"
+msgstr ""
+
+#: ../ninja-forms-settings.php:319
+msgid ""
+"Select the field containing the total amount for the transaction. You can "
+"use any field type or insert a special payment field such as the \"total\" "
+"field type to calculate the value from several other fields."
+msgstr ""
+
+#: ../ninja-forms-settings.php:326
+msgid "First Name"
+msgstr ""
+
+#: ../ninja-forms-settings.php:333
+msgid "Last Name"
+msgstr ""
+
+#: ../ninja-forms-settings.php:339
+msgid "Email"
+msgstr ""
+
+#: ../ninja-forms-settings.php:345
+msgid "Phone"
+msgstr ""
+
+#: ../ninja-forms-settings.php:351
+msgid "Address 1"
+msgstr ""
+
+#: ../ninja-forms-settings.php:358
+msgid "Address 2"
+msgstr ""
+
+#: ../ninja-forms-settings.php:364
+msgid "City"
+msgstr "City / Town"
+
+#: ../ninja-forms-settings.php:371
+msgid "State"
+msgstr "County"
+
+#: ../ninja-forms-settings.php:378
+msgid "ZIP"
+msgstr "Post Code"
+
+#: ../ninja-forms-settings.php:385
+msgid "Country"
+msgstr ""
+
+#: ../ninja-forms-settings.php:392
+msgid "Payment Success Page"
+msgstr ""
+
+#: ../ninja-forms-settings.php:394
+msgid "Select the page user will return after making successful payment."
+msgstr ""
+
+#: ../ninja-forms-settings.php:400
+msgid "Payment Cancel Page"
+msgstr ""
+
+#: ../ninja-forms-settings.php:401
+msgid "Select the page user will return if payment is canceled."
+msgstr "Select the page user will return if payment is cancelled."
+
+#: ../ninja-forms-settings.php:440
+msgid "Paypal Data"
+msgstr "PayPal Data"
+
+#: ../ninja-forms-settings.php:458
+msgid "Payment Status : "
+msgstr ""
+
+#: ../political-options.php:152 ../political-options.php:158
+msgid "Issues"
+msgstr ""
+
+#: ../political-options.php:153
+msgid "Issue"
+msgstr ""
+
+#: ../political-options.php:154 ../political-options.php:155
+msgid "Add New Issue"
+msgstr ""
+
+#: ../political-options.php:156
+msgid "Edit Issue"
+msgstr ""
+
+#: ../political-options.php:157
+msgid "New Issue"
+msgstr ""
+
+#: ../political-options.php:159
+msgid "View Issue"
+msgstr ""
+
+#: ../political-options.php:160
+msgid "Search Issue"
+msgstr ""
+
+#: ../political-options.php:161
+msgid "No Issue found"
+msgstr ""
+
+#: ../political-options.php:162
+msgid "No Issue found in Trash"
+msgstr ""
+
+#: ../political-options.php:164
+msgid "Political Options"
+msgstr ""
+
+#: ../political-options.php:192 ../political-options.php:198
+msgid "Events"
+msgstr ""
+
+#: ../political-options.php:193
+msgid "Event"
+msgstr ""
+
+#: ../political-options.php:194 ../political-options.php:195
+#: ../political-options.php:313
+msgid "Add New Event"
+msgstr ""
+
+#: ../political-options.php:196
+msgid "Edit Event"
+msgstr ""
+
+#: ../political-options.php:197
+msgid "New Event"
+msgstr ""
+
+#: ../political-options.php:199
+msgid "View Event"
+msgstr ""
+
+#: ../political-options.php:200
+msgid "Search Event"
+msgstr ""
+
+#: ../political-options.php:201
+msgid "No Event found"
+msgstr ""
+
+#: ../political-options.php:202
+msgid "No Event found in Trash"
+msgstr ""
+
+#: ../political-options.php:204
+msgid "Events Hidden"
+msgstr ""
+
+#: ../political-options.php:233 ../political-options.php:239
+msgid "Videos"
+msgstr ""
+
+#: ../political-options.php:234 ../political-options.php:370
+msgid "Video"
+msgstr ""
+
+#: ../political-options.php:235 ../political-options.php:236
+#: ../political-options.php:318
+msgid "Add New Video"
+msgstr ""
+
+#: ../political-options.php:237
+msgid "Edit Video"
+msgstr ""
+
+#: ../political-options.php:238
+msgid "New Video"
+msgstr ""
+
+#: ../political-options.php:240
+msgid "View Video"
+msgstr ""
+
+#: ../political-options.php:241
+msgid "Search Video"
+msgstr ""
+
+#: ../political-options.php:242
+msgid "No Video found"
+msgstr ""
+
+#: ../political-options.php:243
+msgid "No Video found in Trash"
+msgstr ""
+
+#: ../political-options.php:245
+msgid "Videos Hidden"
+msgstr ""
+
+#: ../political-options.php:272
+msgid "Categories"
+msgstr ""
+
+#: ../political-options.php:273
+msgid "Category"
+msgstr ""
+
+#: ../political-options.php:274
+msgid "Search Categories"
+msgstr ""
+
+#: ../political-options.php:275
+msgid "Popular Categories"
+msgstr ""
+
+#: ../political-options.php:276
+msgid "All Categories"
+msgstr ""
+
+#: ../political-options.php:277
+msgid "Edit Category"
+msgstr ""
+
+#: ../political-options.php:278
+msgid "Update Category"
+msgstr ""
+
+#: ../political-options.php:279
+msgid "Add New Category"
+msgstr ""
+
+#: ../political-options.php:280
+msgid "New Category Name"
+msgstr ""
+
+#: ../political-options.php:281
+msgid "Separate categories with commas"
+msgstr ""
+
+#: ../political-options.php:282
+msgid "Add or remove categories"
+msgstr ""
+
+#: ../political-options.php:283
+msgid "Choose from the most frequent Categories"
+msgstr "Choose from the most frequent categories"
+
+#: ../political-options.php:302 ../political-options.php:768
+msgid "Newsletter"
+msgstr ""
+
+#: ../political-options.php:303 ../political-options.php:908
+msgid "Donations"
+msgstr ""
+
+#: ../political-options.php:343
+msgid "Event Details"
+msgstr ""
+
+#: ../political-options.php:352
+msgid "Post Event Notes"
+msgstr ""
+
+#: ../political-options.php:361
+msgid "Event Photos"
+msgstr ""
+
+#: ../political-options.php:380 ../political-options.php:961
+msgid "Title"
+msgstr ""
+
+#: ../political-options.php:381 ../political-options.php:417
+msgid "Start Date"
+msgstr ""
+
+#: ../political-options.php:382 ../political-options.php:418
+msgid "End Date"
+msgstr ""
+
+#: ../political-options.php:427
+msgid "Author"
+msgstr ""
+
+#: ../political-options.php:448
+msgid "All Day"
+msgstr ""
+
+#: ../political-options.php:501
+msgid "Start"
+msgstr ""
+
+#: ../political-options.php:529
+msgid "End"
+msgstr ""
+
+#: ../political-options.php:565
+msgid "Location"
+msgstr ""
+
+#: ../political-options.php:570
+msgid "The address to display in the event details."
+msgstr ""
+
+#: ../political-options.php:575
+msgid "Directions"
+msgstr ""
+
+#: ../political-options.php:579
+msgid "Google (or other) Map URL."
+msgstr ""
+
+#: ../political-options.php:592
+msgid "Information to show after the event has concluded."
+msgstr ""
+
+#: ../political-options.php:600
+msgid "Select photos taken at the event"
+msgstr ""
+
+#: ../political-options.php:623
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../political-options.php:623
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: ../political-options.php:644
+msgid "Video URL"
+msgstr ""
+
+#: ../political-options.php:648
+msgid ""
+"Enter a URL for a YouTube, Vimeo, etc.<br>If not using self hosted video "
+"embedded code can be entered here."
+msgstr ""
+
+#: ../political-options.php:653
+msgid "WEBM File URL"
+msgstr ""
+
+#: ../political-options.php:657
+msgid "The URL to the .webm videp file"
+msgstr ""
+
+#: ../political-options.php:662
+msgid "OGV File URL"
+msgstr ""
+
+#: ../political-options.php:666
+msgid "The URL to the .ogv video file"
+msgstr ""
+
+#: ../political-options.php:671
+msgid "M4V ile URL"
+msgstr ""
+
+#: ../political-options.php:675
+msgid "The URL to the .m4v video file"
+msgstr ""
+
+#: ../political-options.php:680
+msgid "YouTube Video ID"
+msgstr ""
+
+#: ../political-options.php:684
+#, php-format
+msgid ""
+"The YouTube video ID. This can be found in the URL, for example: %s From the "
+"URL: %s"
+msgstr ""
+
+#: ../political-options.php:773
+msgid ""
+"This feature requires the free plugin Ninja Forms to be installed. Download "
+"the plugin or install directly from your plugins directory."
+msgstr ""
+
+#: ../political-options.php:776
+msgid "Download Ninja Forms"
+msgstr ""
+
+#: ../political-options.php:777
+msgid "or"
+msgstr ""
+
+#: ../political-options.php:778
+msgid "Install Ninja Forms"
+msgstr ""
+
+#: ../political-options.php:783
+msgid ""
+"Add a simple newsletter sign up to your site. Select a form created with the "
+"Ninja Forms plugin as the source for the fields."
+msgstr ""
+
+#: ../political-options.php:784 ../political-options.php:915
+msgid "Output with"
+msgstr ""
+
+#: ../political-options.php:791
+msgid "Ninja Forms Newsletter"
+msgstr ""
+
+#: ../political-options.php:797
+msgid "Form name"
+msgstr ""
+
+#: ../political-options.php:801
+msgid "- Select a form -"
+msgstr ""
+
+#: ../political-options.php:809
+msgid "The form used for Newsletter."
+msgstr ""
+
+#: ../political-options.php:817 ../political-options.php:1088
+msgid "Save Changes"
+msgstr ""
+
+#: ../political-options.php:822
+msgid "Styling"
+msgstr ""
+
+#: ../political-options.php:824
+msgid ""
+"The newsletter layout and styling output by the shortcode can be modified "
+"with CSS. There are also helper classes supported on the Ninja Forms fields. "
+"Under the \"Advanced\" section of a field setting you can use the following "
+"custom classes:"
+msgstr ""
+
+#: ../political-options.php:827
+msgid "Specify the field to display 100% width."
+msgstr ""
+
+#: ../political-options.php:828
+msgid ""
+"Set the field to display 50% width. Using this you can have fields appear "
+"side by side."
+msgstr ""
+
+#: ../political-options.php:831 ../political-options.php:1095
+msgid "Extend and Enhance"
+msgstr ""
+
+#: ../political-options.php:833
+#, php-format
+msgid ""
+"Ninja Forms makes it possible to add direct integration with services "
+"including MailChimp, Constant Contact, Campaign Monitor and more. To see a "
+"full list of add-ons, visit the %sNinja Forms Extensions%s directory."
+msgstr ""
+
+#: ../political-options.php:909
+msgid ""
+"Settings for the Quick Donate feature. To use Quick Donate, add the "
+"shortcode to any content area of your site."
+msgstr ""
+
+#: ../political-options.php:920
+msgid "Preset Donations"
+msgstr ""
+
+#: ../political-options.php:925
+msgid "Comma separated values for suggested donation values."
+msgstr ""
+
+#: ../political-options.php:926
+msgid "Specify defaults with an asterisk, e.g. <code>5,15,*25,100</code>"
+msgstr ""
+
+#: ../political-options.php:932
+msgid "Currency Symbol"
+msgstr ""
+
+#: ../political-options.php:951
+msgid "Symbol Location"
+msgstr ""
+
+#: ../political-options.php:954
+msgid " Before"
+msgstr ""
+
+#: ../political-options.php:955
+msgid " After"
+msgstr ""
+
+#: ../political-options.php:956
+msgid "Show currency symbol before or after value"
+msgstr ""
+
+#: ../political-options.php:965
+msgid "The title to show in the donate container."
+msgstr ""
+
+#: ../political-options.php:970
+msgid "Button Text"
+msgstr ""
+
+#: ../political-options.php:974
+msgid "The text to show on the donate submit button."
+msgstr ""
+
+#: ../political-options.php:981 ../political-options.php:990
+msgid "Ninja Forms Integration"
+msgstr ""
+
+#: ../political-options.php:985
+msgid ""
+"Collect details from donors before they make a donation. This feature "
+"requires Ninja Forms plugin to be installed"
+msgstr ""
+
+#: ../political-options.php:993
+msgid "Enabled"
+msgstr ""
+
+#: ../political-options.php:994
+msgid "Disabled"
+msgstr ""
+
+#: ../political-options.php:1004
+msgid "Form Page"
+msgstr ""
+
+#: ../political-options.php:1008
+msgid "- Select a page -"
+msgstr ""
+
+#: ../political-options.php:1016
+msgid ""
+"Select the page where this form is in use. This is where the \"Quick Donate"
+"\" tool will take the user to complete the form. For this feature to work "
+"you must add the Ninja Form to a page and select that page here."
+msgstr ""
+
+#: ../political-options.php:1026
+msgid "PayPal Details"
+msgstr ""
+
+#: ../political-options.php:1030
+msgid ""
+"Using Ninja Forms you will configure your PayPal options directly in the "
+"form settings. Create or edit a form and click the \"Settings\" tab. In that "
+"area you can enter the account details in the \"PayPal Options\" container."
+msgstr ""
+
+#: ../political-options.php:1038
+msgid "Mode"
+msgstr ""
+
+#: ../political-options.php:1041
+msgid " Disabled"
+msgstr ""
+
+#: ../political-options.php:1042
+msgid " Enabled"
+msgstr ""
+
+#: ../political-options.php:1043
+msgid " Sandbox (for testing)"
+msgstr ""
+
+#: ../political-options.php:1044
+msgid "To testing transactions, use sandbox mode."
+msgstr "To test transactions use sandbox mode."
+
+#: ../political-options.php:1056
+msgid "Email Address"
+msgstr ""
+
+#: ../political-options.php:1060
+msgid "The address associated with your PayPal account"
+msgstr ""
+
+#: ../political-options.php:1065
+msgid "Description"
+msgstr ""
+
+#: ../political-options.php:1069
+msgid "This label will appear on the transactions for your PayPal statement."
+msgstr ""
+
+#: ../political-options.php:1077
+msgid " Donation"
+msgstr ""
+
+#: ../political-options.php:1078
+msgid " Payment"
+msgstr ""
+
+#: ../political-options.php:1097
+#, php-format
+msgid ""
+"Integrating the Quick Donate tool with Ninja Forms makes it possible to add "
+"more payment solutions, conditional logic, multi-part forms, custom form "
+"styles, newsletter integration and much more. To see a full list of add-ons, "
+"visit the %sNinja Forms Extensions%s directory."
+msgstr ""
